@@ -1,0 +1,25 @@
+{
+  "name": "tachyons-snippets",
+  "displayName": "Tachyons CSS Snippets",
+  "description": "All tachyons css classes as snippets",
+  "version": "0.0.1",
+  "publisher": "thomasviaud",
+  "icon": "images/tachyons-snippets.png",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thomasviaud/tachyons-snippets"
+  },
+  "keywords": ["tachyons", "css", "snippets"],
+  "engines": {
+    "vscode": "^1.22.0"
+  },
+  "categories": ["Snippets"],
+  "contributes": {
+    "snippets": [
+      {
+        "path": "./snippets/tachyons.code-snippets"
+      }
+    ]
+  }
+}
