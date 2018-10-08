@@ -2,4028 +2,4028 @@
   "absolute": {
     "body": "absolute${1| ,-ns,-m,-l|}",
     "prefix": "absolute { position: absolute; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "absolute--fill": {
     "body": "absolute--fill${1| ,-ns,-m,-l|}",
     "prefix": "absolute--fill { top: 0; right: 0; bottom: 0; left: 0; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "aspect-ratio": {
     "body": "aspect-ratio${1| ,-ns,-m,-l|}",
     "prefix": "aspect-ratio { height: 0; position: relative; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "aspect-ratio--16x9": {
     "body": "aspect-ratio--16x9${1| ,-ns,-m,-l|}",
     "prefix": "aspect-ratio--16x9 { padding-bottom: 56.25%; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "aspect-ratio--1x1": {
     "body": "aspect-ratio--1x1${1| ,-ns,-m,-l|}",
     "prefix": "aspect-ratio--1x1 { padding-bottom: 100%; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "aspect-ratio--3x4": {
     "body": "aspect-ratio--3x4${1| ,-ns,-m,-l|}",
     "prefix": "aspect-ratio--3x4 { padding-bottom: 133.33%; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "aspect-ratio--4x3": {
     "body": "aspect-ratio--4x3${1| ,-ns,-m,-l|}",
     "prefix": "aspect-ratio--4x3 { padding-bottom: 75%; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "aspect-ratio--4x6": {
     "body": "aspect-ratio--4x6${1| ,-ns,-m,-l|}",
     "prefix": "aspect-ratio--4x6 { padding-bottom: 150%; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "aspect-ratio--5x7": {
     "body": "aspect-ratio--5x7${1| ,-ns,-m,-l|}",
     "prefix": "aspect-ratio--5x7 { padding-bottom: 140%; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "aspect-ratio--5x8": {
     "body": "aspect-ratio--5x8${1| ,-ns,-m,-l|}",
     "prefix": "aspect-ratio--5x8 { padding-bottom: 160%; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "aspect-ratio--6x4": {
     "body": "aspect-ratio--6x4${1| ,-ns,-m,-l|}",
     "prefix": "aspect-ratio--6x4 { padding-bottom: 66.6%; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "aspect-ratio--7x5": {
     "body": "aspect-ratio--7x5${1| ,-ns,-m,-l|}",
     "prefix": "aspect-ratio--7x5 { padding-bottom: 71.42%; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "aspect-ratio--8x5": {
     "body": "aspect-ratio--8x5${1| ,-ns,-m,-l|}",
     "prefix": "aspect-ratio--8x5 { padding-bottom: 62.5%; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "aspect-ratio--9x16": {
     "body": "aspect-ratio--9x16${1| ,-ns,-m,-l|}",
     "prefix": "aspect-ratio--9x16 { padding-bottom: 177.77%; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "aspect-ratio--object": {
     "body": "aspect-ratio--object${1| ,-ns,-m,-l|}",
     "prefix":
       "aspect-ratio--object { position: absolute; top: 0; right: 0; bottom: 0; left: 0; width: 100%; height: 100%; z-index: 100; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "athelas": {
     "body": "athelas",
     "prefix": "athelas { font-family: athelas, georgia, serif; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "avenir": {
     "body": "avenir",
     "prefix": "avenir { font-family: 'avenir next', avenir, sans-serif; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b": {
     "body": "b${1| ,-ns,-m,-l|}",
     "prefix": "b { font-weight: bold; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--black": {
     "body": "b--black",
     "prefix": "b--black { border-color: #000; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--black-0125": {
     "body": "b--black-0125",
     "prefix": "b--black-0125 { border-color: rgba( 0, 0, 0, .0125 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--black-025": {
     "body": "b--black-025",
     "prefix": "b--black-025 { border-color: rgba( 0, 0, 0, .025 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--black-05": {
     "body": "b--black-05",
     "prefix": "b--black-05 { border-color: rgba( 0, 0, 0, .05 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--black-10": {
     "body": "b--black-10",
     "prefix": "b--black-10 { border-color: rgba( 0, 0, 0, .1 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--black-20": {
     "body": "b--black-20",
     "prefix": "b--black-20 { border-color: rgba( 0, 0, 0, .2 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--black-30": {
     "body": "b--black-30",
     "prefix": "b--black-30 { border-color: rgba( 0, 0, 0, .3 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--black-40": {
     "body": "b--black-40",
     "prefix": "b--black-40 { border-color: rgba( 0, 0, 0, .4 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--black-50": {
     "body": "b--black-50",
     "prefix": "b--black-50 { border-color: rgba( 0, 0, 0, .5 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--black-60": {
     "body": "b--black-60",
     "prefix": "b--black-60 { border-color: rgba( 0, 0, 0, .6 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--black-70": {
     "body": "b--black-70",
     "prefix": "b--black-70 { border-color: rgba( 0, 0, 0, .7 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--black-80": {
     "body": "b--black-80",
     "prefix": "b--black-80 { border-color: rgba( 0, 0, 0, .8 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--black-90": {
     "body": "b--black-90",
     "prefix": "b--black-90 { border-color: rgba( 0, 0, 0, .9 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--blue": {
     "body": "b--blue",
     "prefix": "b--blue { border-color: #357edd; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--dark-blue": {
     "body": "b--dark-blue",
     "prefix": "b--dark-blue { border-color: #00449e; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--dark-gray": {
     "body": "b--dark-gray",
     "prefix": "b--dark-gray { border-color: #333; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--dark-green": {
     "body": "b--dark-green",
     "prefix": "b--dark-green { border-color: #137752; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--dark-pink": {
     "body": "b--dark-pink",
     "prefix": "b--dark-pink { border-color: #d5008f; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--dark-red": {
     "body": "b--dark-red",
     "prefix": "b--dark-red { border-color: #e7040f; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--dashed": {
     "body": "b--dashed${1| ,-ns,-m,-l|}",
     "prefix": "b--dashed { border-style: dashed; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--dotted": {
     "body": "b--dotted${1| ,-ns,-m,-l|}",
     "prefix": "b--dotted { border-style: dotted; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--gold": {
     "body": "b--gold",
     "prefix": "b--gold { border-color: #ffb700; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--gray": {
     "body": "b--gray",
     "prefix": "b--gray { border-color: #777; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--green": {
     "body": "b--green",
     "prefix": "b--green { border-color: #19a974; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--hot-pink": {
     "body": "b--hot-pink",
     "prefix": "b--hot-pink { border-color: #ff41b4; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--inherit": {
     "body": "b--inherit",
     "prefix": "b--inherit { border-color: inherit; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--light-blue": {
     "body": "b--light-blue",
     "prefix": "b--light-blue { border-color: #96ccff; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--light-gray": {
     "body": "b--light-gray",
     "prefix": "b--light-gray { border-color: #eee; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--light-green": {
     "body": "b--light-green",
     "prefix": "b--light-green { border-color: #9eebcf; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--light-pink": {
     "body": "b--light-pink",
     "prefix": "b--light-pink { border-color: #ffa3d7; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--light-purple": {
     "body": "b--light-purple",
     "prefix": "b--light-purple { border-color: #a463f2; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--light-red": {
     "body": "b--light-red",
     "prefix": "b--light-red { border-color: #ff725c; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--light-silver": {
     "body": "b--light-silver",
     "prefix": "b--light-silver { border-color: #aaa; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--light-yellow": {
     "body": "b--light-yellow",
     "prefix": "b--light-yellow { border-color: #fbf1a9; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--lightest-blue": {
     "body": "b--lightest-blue",
     "prefix": "b--lightest-blue { border-color: #cdecff; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--mid-gray": {
     "body": "b--mid-gray",
     "prefix": "b--mid-gray { border-color: #555; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--moon-gray": {
     "body": "b--moon-gray",
     "prefix": "b--moon-gray { border-color: #ccc; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--navy": {
     "body": "b--navy",
     "prefix": "b--navy { border-color: #001b44; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--near-black": {
     "body": "b--near-black",
     "prefix": "b--near-black { border-color: #111; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--near-white": {
     "body": "b--near-white",
     "prefix": "b--near-white { border-color: #f4f4f4; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--none": {
     "body": "b--none${1| ,-ns,-m,-l|}",
     "prefix": "b--none { border-style: none; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--orange": {
     "body": "b--orange",
     "prefix": "b--orange { border-color: #ff6300; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--pink": {
     "body": "b--pink",
     "prefix": "b--pink { border-color: #ff80cc; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--purple": {
     "body": "b--purple",
     "prefix": "b--purple { border-color: #5e2ca5; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--red": {
     "body": "b--red",
     "prefix": "b--red { border-color: #ff4136; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--silver": {
     "body": "b--silver",
     "prefix": "b--silver { border-color: #999; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--solid": {
     "body": "b--solid${1| ,-ns,-m,-l|}",
     "prefix": "b--solid { border-style: solid; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--transparent": {
     "body": "b--transparent",
     "prefix": "b--transparent { border-color: transparent; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--washed-blue": {
     "body": "b--washed-blue",
     "prefix": "b--washed-blue { border-color: #f6fffe; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--washed-green": {
     "body": "b--washed-green",
     "prefix": "b--washed-green { border-color: #e8fdf5; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--washed-red": {
     "body": "b--washed-red",
     "prefix": "b--washed-red { border-color: #ffdfdf; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--washed-yellow": {
     "body": "b--washed-yellow",
     "prefix": "b--washed-yellow { border-color: #fffceb; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--white": {
     "body": "b--white",
     "prefix": "b--white { border-color: #fff; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--white-0125": {
     "body": "b--white-0125",
     "prefix": "b--white-0125 { border-color: rgba( 255, 255, 255, .0125 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--white-025": {
     "body": "b--white-025",
     "prefix": "b--white-025 { border-color: rgba( 255, 255, 255, .025 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--white-05": {
     "body": "b--white-05",
     "prefix": "b--white-05 { border-color: rgba( 255, 255, 255, .05 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--white-10": {
     "body": "b--white-10",
     "prefix": "b--white-10 { border-color: rgba( 255, 255, 255, .1 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--white-20": {
     "body": "b--white-20",
     "prefix": "b--white-20 { border-color: rgba( 255, 255, 255, .2 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--white-30": {
     "body": "b--white-30",
     "prefix": "b--white-30 { border-color: rgba( 255, 255, 255, .3 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--white-40": {
     "body": "b--white-40",
     "prefix": "b--white-40 { border-color: rgba( 255, 255, 255, .4 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--white-50": {
     "body": "b--white-50",
     "prefix": "b--white-50 { border-color: rgba( 255, 255, 255, .5 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--white-60": {
     "body": "b--white-60",
     "prefix": "b--white-60 { border-color: rgba( 255, 255, 255, .6 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--white-70": {
     "body": "b--white-70",
     "prefix": "b--white-70 { border-color: rgba( 255, 255, 255, .7 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--white-80": {
     "body": "b--white-80",
     "prefix": "b--white-80 { border-color: rgba( 255, 255, 255, .8 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--white-90": {
     "body": "b--white-90",
     "prefix": "b--white-90 { border-color: rgba( 255, 255, 255, .9 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "b--yellow": {
     "body": "b--yellow",
     "prefix": "b--yellow { border-color: #ffd700; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "ba": {
     "body": "ba${1| ,-ns,-m,-l|}",
     "prefix": "ba { border-style: solid; border-width: 1px; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "baskerville": {
     "body": "baskerville",
     "prefix": "baskerville { font-family: baskerville, serif; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bb": {
     "body": "bb${1| ,-ns,-m,-l|}",
     "prefix": "bb { border-bottom-style: solid; border-bottom-width: 1px; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bb-0": {
     "body": "bb-0${1| ,-ns,-m,-l|}",
     "prefix": "bb-0 { border-bottom-width: 0; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-animate": {
     "body": "bg-animate",
     "prefix": "bg-animate { transition: background-color .15s ease-in-out; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-black": {
     "body": "bg-black",
     "prefix": "bg-black { background-color: #000; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-black-05": {
     "body": "bg-black-05",
     "prefix": "bg-black-05 { background-color: rgba( 0, 0, 0, .05 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-black-10": {
     "body": "bg-black-10",
     "prefix": "bg-black-10 { background-color: rgba( 0, 0, 0, .1 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-black-20": {
     "body": "bg-black-20",
     "prefix": "bg-black-20 { background-color: rgba( 0, 0, 0, .2 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-black-30": {
     "body": "bg-black-30",
     "prefix": "bg-black-30 { background-color: rgba( 0, 0, 0, .3 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-black-40": {
     "body": "bg-black-40",
     "prefix": "bg-black-40 { background-color: rgba( 0, 0, 0, .4 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-black-50": {
     "body": "bg-black-50",
     "prefix": "bg-black-50 { background-color: rgba( 0, 0, 0, .5 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-black-60": {
     "body": "bg-black-60",
     "prefix": "bg-black-60 { background-color: rgba( 0, 0, 0, .6 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-black-70": {
     "body": "bg-black-70",
     "prefix": "bg-black-70 { background-color: rgba( 0, 0, 0, .7 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-black-80": {
     "body": "bg-black-80",
     "prefix": "bg-black-80 { background-color: rgba( 0, 0, 0, .8 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-black-90": {
     "body": "bg-black-90",
     "prefix": "bg-black-90 { background-color: rgba( 0, 0, 0, .9 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-blue": {
     "body": "bg-blue",
     "prefix": "bg-blue { background-color: #357edd; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-bottom": {
     "body": "bg-bottom${1| ,-ns,-m,-l|}",
     "prefix":
       "bg-bottom { background-repeat: no-repeat; background-position: bottom center; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-center": {
     "body": "bg-center${1| ,-ns,-m,-l|}",
     "prefix":
       "bg-center { background-repeat: no-repeat; background-position: center center; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-dark-blue": {
     "body": "bg-dark-blue",
     "prefix": "bg-dark-blue { background-color: #00449e; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-dark-gray": {
     "body": "bg-dark-gray",
     "prefix": "bg-dark-gray { background-color: #333; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-dark-green": {
     "body": "bg-dark-green",
     "prefix": "bg-dark-green { background-color: #137752; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-dark-pink": {
     "body": "bg-dark-pink",
     "prefix": "bg-dark-pink { background-color: #d5008f; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-dark-red": {
     "body": "bg-dark-red",
     "prefix": "bg-dark-red { background-color: #e7040f; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-gold": {
     "body": "bg-gold",
     "prefix": "bg-gold { background-color: #ffb700; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-gray": {
     "body": "bg-gray",
     "prefix": "bg-gray { background-color: #777; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-green": {
     "body": "bg-green",
     "prefix": "bg-green { background-color: #19a974; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-hot-pink": {
     "body": "bg-hot-pink",
     "prefix": "bg-hot-pink { background-color: #ff41b4; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-inherit": {
     "body": "bg-inherit",
     "prefix": "bg-inherit { background-color: inherit; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-left": {
     "body": "bg-left${1| ,-ns,-m,-l|}",
     "prefix":
       "bg-left { background-repeat: no-repeat; background-position: center left; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-light-blue": {
     "body": "bg-light-blue",
     "prefix": "bg-light-blue { background-color: #96ccff; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-light-gray": {
     "body": "bg-light-gray",
     "prefix": "bg-light-gray { background-color: #eee; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-light-green": {
     "body": "bg-light-green",
     "prefix": "bg-light-green { background-color: #9eebcf; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-light-pink": {
     "body": "bg-light-pink",
     "prefix": "bg-light-pink { background-color: #ffa3d7; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-light-purple": {
     "body": "bg-light-purple",
     "prefix": "bg-light-purple { background-color: #a463f2; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-light-red": {
     "body": "bg-light-red",
     "prefix": "bg-light-red { background-color: #ff725c; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-light-silver": {
     "body": "bg-light-silver",
     "prefix": "bg-light-silver { background-color: #aaa; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-light-yellow": {
     "body": "bg-light-yellow",
     "prefix": "bg-light-yellow { background-color: #fbf1a9; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-lightest-blue": {
     "body": "bg-lightest-blue",
     "prefix": "bg-lightest-blue { background-color: #cdecff; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-mid-gray": {
     "body": "bg-mid-gray",
     "prefix": "bg-mid-gray { background-color: #555; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-moon-gray": {
     "body": "bg-moon-gray",
     "prefix": "bg-moon-gray { background-color: #ccc; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-navy": {
     "body": "bg-navy",
     "prefix": "bg-navy { background-color: #001b44; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-near-black": {
     "body": "bg-near-black",
     "prefix": "bg-near-black { background-color: #111; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-near-white": {
     "body": "bg-near-white",
     "prefix": "bg-near-white { background-color: #f4f4f4; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-orange": {
     "body": "bg-orange",
     "prefix": "bg-orange { background-color: #ff6300; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-pink": {
     "body": "bg-pink",
     "prefix": "bg-pink { background-color: #ff80cc; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-purple": {
     "body": "bg-purple",
     "prefix": "bg-purple { background-color: #5e2ca5; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-red": {
     "body": "bg-red",
     "prefix": "bg-red { background-color: #ff4136; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-right": {
     "body": "bg-right${1| ,-ns,-m,-l|}",
     "prefix":
       "bg-right { background-repeat: no-repeat; background-position: center right; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-silver": {
     "body": "bg-silver",
     "prefix": "bg-silver { background-color: #999; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-top": {
     "body": "bg-top${1| ,-ns,-m,-l|}",
     "prefix":
       "bg-top { background-repeat: no-repeat; background-position: top center; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-transparent": {
     "body": "bg-transparent",
     "prefix": "bg-transparent { background-color: transparent; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-washed-blue": {
     "body": "bg-washed-blue",
     "prefix": "bg-washed-blue { background-color: #f6fffe; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-washed-green": {
     "body": "bg-washed-green",
     "prefix": "bg-washed-green { background-color: #e8fdf5; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-washed-red": {
     "body": "bg-washed-red",
     "prefix": "bg-washed-red { background-color: #ffdfdf; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-washed-yellow": {
     "body": "bg-washed-yellow",
     "prefix": "bg-washed-yellow { background-color: #fffceb; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-white": {
     "body": "bg-white",
     "prefix": "bg-white { background-color: #fff; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-white-10": {
     "body": "bg-white-10",
     "prefix": "bg-white-10 { background-color: rgba( 255, 255, 255, .1 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-white-20": {
     "body": "bg-white-20",
     "prefix": "bg-white-20 { background-color: rgba( 255, 255, 255, .2 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-white-30": {
     "body": "bg-white-30",
     "prefix": "bg-white-30 { background-color: rgba( 255, 255, 255, .3 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-white-40": {
     "body": "bg-white-40",
     "prefix": "bg-white-40 { background-color: rgba( 255, 255, 255, .4 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-white-50": {
     "body": "bg-white-50",
     "prefix": "bg-white-50 { background-color: rgba( 255, 255, 255, .5 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-white-60": {
     "body": "bg-white-60",
     "prefix": "bg-white-60 { background-color: rgba( 255, 255, 255, .6 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-white-70": {
     "body": "bg-white-70",
     "prefix": "bg-white-70 { background-color: rgba( 255, 255, 255, .7 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-white-80": {
     "body": "bg-white-80",
     "prefix": "bg-white-80 { background-color: rgba( 255, 255, 255, .8 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-white-90": {
     "body": "bg-white-90",
     "prefix": "bg-white-90 { background-color: rgba( 255, 255, 255, .9 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bg-yellow": {
     "body": "bg-yellow",
     "prefix": "bg-yellow { background-color: #ffd700; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bl": {
     "body": "bl${1| ,-ns,-m,-l|}",
     "prefix": "bl { border-left-style: solid; border-left-width: 1px; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bl-0": {
     "body": "bl-0${1| ,-ns,-m,-l|}",
     "prefix": "bl-0 { border-left-width: 0; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "black": {
     "body": "black",
     "prefix": "black { color: #000; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "black-05": {
     "body": "black-05",
     "prefix": "black-05 { color: rgba( 0, 0, 0, .05 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "black-10": {
     "body": "black-10",
     "prefix": "black-10 { color: rgba( 0, 0, 0, .1 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "black-20": {
     "body": "black-20",
     "prefix": "black-20 { color: rgba( 0, 0, 0, .2 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "black-30": {
     "body": "black-30",
     "prefix": "black-30 { color: rgba( 0, 0, 0, .3 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "black-40": {
     "body": "black-40",
     "prefix": "black-40 { color: rgba( 0, 0, 0, .4 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "black-50": {
     "body": "black-50",
     "prefix": "black-50 { color: rgba( 0, 0, 0, .5 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "black-60": {
     "body": "black-60",
     "prefix": "black-60 { color: rgba( 0, 0, 0, .6 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "black-70": {
     "body": "black-70",
     "prefix": "black-70 { color: rgba( 0, 0, 0, .7 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "black-80": {
     "body": "black-80",
     "prefix": "black-80 { color: rgba( 0, 0, 0, .8 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "black-90": {
     "body": "black-90",
     "prefix": "black-90 { color: rgba( 0, 0, 0, .9 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "blue": {
     "body": "blue",
     "prefix": "blue { color: #357edd; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bn": {
     "body": "bn${1| ,-ns,-m,-l|}",
     "prefix": "bn { border-style: none; border-width: 0; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bodoni": {
     "body": "bodoni",
     "prefix": "bodoni { font-family: \"Bodoni MT\", serif; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bottom--1": {
     "body": "bottom--1${1| ,-ns,-m,-l|}",
     "prefix": "bottom--1 { bottom: -1rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bottom--2": {
     "body": "bottom--2${1| ,-ns,-m,-l|}",
     "prefix": "bottom--2 { bottom: -2rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bottom-0": {
     "body": "bottom-0${1| ,-ns,-m,-l|}",
     "prefix": "bottom-0 { bottom: 0; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bottom-1": {
     "body": "bottom-1${1| ,-ns,-m,-l|}",
     "prefix": "bottom-1 { bottom: 1rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bottom-2": {
     "body": "bottom-2${1| ,-ns,-m,-l|}",
     "prefix": "bottom-2 { bottom: 2rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "br": {
     "body": "br${1| ,-ns,-m,-l|}",
     "prefix": "br { border-right-style: solid; border-right-width: 1px; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "br--bottom": {
     "body": "br--bottom${1| ,-ns,-m,-l|}",
     "prefix":
       "br--bottom { border-top-left-radius: 0; border-top-right-radius: 0; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "br--left": {
     "body": "br--left${1| ,-ns,-m,-l|}",
     "prefix":
       "br--left { border-top-right-radius: 0; border-bottom-right-radius: 0; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "br--right": {
     "body": "br--right${1| ,-ns,-m,-l|}",
     "prefix":
       "br--right { border-top-left-radius: 0; border-bottom-left-radius: 0; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "br--top": {
     "body": "br--top${1| ,-ns,-m,-l|}",
     "prefix":
       "br--top { border-bottom-left-radius: 0; border-bottom-right-radius: 0; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "br-0": {
     "body": "br-0${1| ,-ns,-m,-l|}",
     "prefix": "br-0 { border-right-width: 0; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "br-100": {
     "body": "br-100${1| ,-ns,-m,-l|}",
     "prefix": "br-100 { border-radius: 100%; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "br-pill": {
     "body": "br-pill${1| ,-ns,-m,-l|}",
     "prefix": "br-pill { border-radius: 9999px; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "br0": {
     "body": "br0${1| ,-ns,-m,-l|}",
     "prefix": "br0 { border-radius: 0; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "br1": {
     "body": "br1${1| ,-ns,-m,-l|}",
     "prefix": "br1 { border-radius: .125rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "br2": {
     "body": "br2${1| ,-ns,-m,-l|}",
     "prefix": "br2 { border-radius: .25rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "br3": {
     "body": "br3${1| ,-ns,-m,-l|}",
     "prefix": "br3 { border-radius: .5rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "br4": {
     "body": "br4${1| ,-ns,-m,-l|}",
     "prefix": "br4 { border-radius: 1rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bt": {
     "body": "bt${1| ,-ns,-m,-l|}",
     "prefix": "bt { border-top-style: solid; border-top-width: 1px; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bt-0": {
     "body": "bt-0${1| ,-ns,-m,-l|}",
     "prefix": "bt-0 { border-top-width: 0; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "button-reset": {
     "body": "button-reset",
     "prefix": "button-reset { border: 0; padding: 0; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bw0": {
     "body": "bw0${1| ,-ns,-m,-l|}",
     "prefix": "bw0 { border-width: 0; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bw1": {
     "body": "bw1${1| ,-ns,-m,-l|}",
     "prefix": "bw1 { border-width: .125rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bw2": {
     "body": "bw2${1| ,-ns,-m,-l|}",
     "prefix": "bw2 { border-width: .25rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bw3": {
     "body": "bw3${1| ,-ns,-m,-l|}",
     "prefix": "bw3 { border-width: .5rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bw4": {
     "body": "bw4${1| ,-ns,-m,-l|}",
     "prefix": "bw4 { border-width: 1rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "bw5": {
     "body": "bw5${1| ,-ns,-m,-l|}",
     "prefix": "bw5 { border-width: 2rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "calisto": {
     "body": "calisto",
     "prefix": "calisto { font-family: \"Calisto MT\", serif; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "cb": {
     "body": "cb${1| ,-ns,-m,-l|}",
     "prefix": "cb { clear: both; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "center": {
     "body": "center${1| ,-ns,-m,-l|}",
     "prefix": "center { margin-right: auto; margin-left: auto; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "cf": {
     "body": "cf",
     "prefix": "cf { *zoom: 1; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "cf:after": {
     "body": "cf:after",
     "prefix": "cf:after { content: \" \"; display: table; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "cf:before": {
     "body": "cf:before",
     "prefix": "cf:before { content: \" \"; display: table; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "cl": {
     "body": "cl${1| ,-ns,-m,-l|}",
     "prefix": "cl { clear: left; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "clip": {
     "body": "clip${1| ,-ns,-m,-l|}",
     "prefix":
       "clip { position: fixed !important; _position: absolute !important; clip: rect( 1px 1px 1px 1px );  clip: rect( 1px, 1px, 1px, 1px ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "cn": {
     "body": "cn${1| ,-ns,-m,-l|}",
     "prefix": "cn { clear: none; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "collapse": {
     "body": "collapse",
     "prefix": "collapse { border-collapse: collapse; border-spacing: 0; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "color-inherit": {
     "body": "color-inherit",
     "prefix": "color-inherit { color: inherit; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "contain": {
     "body": "contain${1| ,-ns,-m,-l|}",
     "prefix": "contain { background-size: contain !important; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "content-around": {
     "body": "content-around${1| ,-ns,-m,-l|}",
     "prefix":
       "content-around { -ms-flex-line-pack: distribute; align-content: space-around; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "content-between": {
     "body": "content-between${1| ,-ns,-m,-l|}",
     "prefix":
       "content-between { -ms-flex-line-pack: justify; align-content: space-between; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "content-center": {
     "body": "content-center${1| ,-ns,-m,-l|}",
     "prefix":
       "content-center { -ms-flex-line-pack: center; align-content: center; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "content-end": {
     "body": "content-end${1| ,-ns,-m,-l|}",
     "prefix":
       "content-end { -ms-flex-line-pack: end; align-content: flex-end; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "content-start": {
     "body": "content-start${1| ,-ns,-m,-l|}",
     "prefix":
       "content-start { -ms-flex-line-pack: start; align-content: flex-start; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "content-stretch": {
     "body": "content-stretch${1| ,-ns,-m,-l|}",
     "prefix":
       "content-stretch { -ms-flex-line-pack: stretch; align-content: stretch; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "courier": {
     "body": "courier",
     "prefix": "courier { font-family: 'Courier Next', courier, monospace; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "cover": {
     "body": "cover${1| ,-ns,-m,-l|}",
     "prefix": "cover { background-size: cover !important; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "cr": {
     "body": "cr${1| ,-ns,-m,-l|}",
     "prefix": "cr { clear: right; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "dark-blue": {
     "body": "dark-blue",
     "prefix": "dark-blue { color: #00449e; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "dark-gray": {
     "body": "dark-gray",
     "prefix": "dark-gray { color: #333; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "dark-green": {
     "body": "dark-green",
     "prefix": "dark-green { color: #137752; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "dark-pink": {
     "body": "dark-pink",
     "prefix": "dark-pink { color: #d5008f; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "dark-red": {
     "body": "dark-red",
     "prefix": "dark-red { color: #e7040f; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "db": {
     "body": "db${1| ,-ns,-m,-l|}",
     "prefix": "db { display: block; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "debug": {
     "body": "debug",
     "prefix": "debug { outline: 1px solid gold; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "debug-black": {
     "body": "debug-black",
     "prefix": "debug-black { outline: 1px solid black; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "debug-grid": {
     "body": "debug-grid",
     "prefix":
       "debug-grid { background: transparent url( data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAFElEQVR4AWPAC97/9x0eCsAEPgwAVLshdpENIxcAAAAASUVORK5CYII= ) repeat top left; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "debug-grid-16": {
     "body": "debug-grid-16",
     "prefix":
       "debug-grid-16 { background: transparent url( data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAMklEQVR4AWOgCLz/b0epAa6UGuBOqQHOQHLUgFEDnAbcBZ4UGwDOkiCnkIhdgNgNxAYAiYlD+8sEuo8AAAAASUVORK5CYII= ) repeat top left; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "debug-grid-16-solid": {
     "body": "debug-grid-16-solid",
     "prefix":
       "debug-grid-16-solid { background: white url( data:image/gif;base64,R0lGODdhEAAQAPEAAADw/wDx/xXy/////ywAAAAAEAAQAAACIZyPKckYDQFsb6ZqD85jZ2+BkwiRFKehhqQCQgDHcgwEBQA7 ) repeat top left; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "debug-grid-8-solid": {
     "body": "debug-grid-8-solid",
     "prefix":
       "debug-grid-8-solid { background: white url( data:image/gif;base64,R0lGODdhCAAIAPEAAADw/wDx/////wAAACwAAAAACAAIAAACDZQvgaeb/lxbAIKA8y0AOw== ) repeat top left; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "debug-white": {
     "body": "debug-white",
     "prefix": "debug-white { outline: 1px solid white; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "di": {
     "body": "di${1| ,-ns,-m,-l|}",
     "prefix": "di { display: inline; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "dib": {
     "body": "dib${1| ,-ns,-m,-l|}",
     "prefix": "dib { display: inline-block; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "dim": {
     "body": "dim",
     "prefix": "dim { opacity: .5; transition: opacity .15s ease-in; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "dit": {
     "body": "dit${1| ,-ns,-m,-l|}",
     "prefix": "dit { display: inline-table; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "dn": {
     "body": "dn${1| ,-ns,-m,-l|}",
     "prefix": "dn { display: none; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "dt": {
     "body": "dt${1| ,-ns,-m,-l|}",
     "prefix": "dt { display: table; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "dt--fixed": {
     "body": "dt--fixed${1| ,-ns,-m,-l|}",
     "prefix": "dt--fixed { table-layout: fixed; width: 100%; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "dt-column": {
     "body": "dt-column${1| ,-ns,-m,-l|}",
     "prefix": "dt-column { display: table-column; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "dt-column-group": {
     "body": "dt-column-group${1| ,-ns,-m,-l|}",
     "prefix": "dt-column-group { display: table-column-group; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "dt-row": {
     "body": "dt-row${1| ,-ns,-m,-l|}",
     "prefix": "dt-row { display: table-row; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "dt-row-group": {
     "body": "dt-row-group${1| ,-ns,-m,-l|}",
     "prefix": "dt-row-group { display: table-row-group; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "dtc": {
     "body": "dtc${1| ,-ns,-m,-l|}",
     "prefix": "dtc { display: table-cell; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "f-5": {
     "body": "f-5${1| ,-ns,-m,-l|}",
     "prefix": "f-5 { font-size: 5rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "f-6": {
     "body": "f-6${1| ,-ns,-m,-l|}",
     "prefix": "f-6 { font-size: 6rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "f-headline": {
     "body": "f-headline${1| ,-ns,-m,-l|}",
     "prefix": "f-headline { font-size: 6rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "f-subheadline": {
     "body": "f-subheadline${1| ,-ns,-m,-l|}",
     "prefix": "f-subheadline { font-size: 5rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "f1": {
     "body": "f1${1| ,-ns,-m,-l|}",
     "prefix": "f1 { font-size: 3rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "f2": {
     "body": "f2${1| ,-ns,-m,-l|}",
     "prefix": "f2 { font-size: 2.25rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "f3": {
     "body": "f3${1| ,-ns,-m,-l|}",
     "prefix": "f3 { font-size: 1.5rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "f4": {
     "body": "f4${1| ,-ns,-m,-l|}",
     "prefix": "f4 { font-size: 1.25rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "f5": {
     "body": "f5${1| ,-ns,-m,-l|}",
     "prefix": "f5 { font-size: 1rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "f6": {
     "body": "f6${1| ,-ns,-m,-l|}",
     "prefix": "f6 { font-size: .875rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "f7": {
     "body": "f7${1| ,-ns,-m,-l|}",
     "prefix": "f7 { font-size: .75rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "fixed": {
     "body": "fixed${1| ,-ns,-m,-l|}",
     "prefix": "fixed { position: fixed; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "fl": {
     "body": "fl${1| ,-ns,-m,-l|}",
     "prefix": "fl { float: left; _display: inline; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "flex": {
     "body": "flex${1| ,-ns,-m,-l|}",
     "prefix":
       "flex { display: -webkit-box; display: -ms-flexbox; display: flex; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "flex-auto": {
     "body": "flex-auto${1| ,-ns,-m,-l|}",
     "prefix":
       "flex-auto { -webkit-box-flex: 1; -ms-flex: 1 1 auto; flex: 1 1 auto; min-width: 0;  min-height: 0;  }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "flex-column": {
     "body": "flex-column${1| ,-ns,-m,-l|}",
     "prefix":
       "flex-column { -webkit-box-orient: vertical; -webkit-box-direction: normal; -ms-flex-direction: column; flex-direction: column; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "flex-column-reverse": {
     "body": "flex-column-reverse${1| ,-ns,-m,-l|}",
     "prefix":
       "flex-column-reverse { -webkit-box-orient: vertical; -webkit-box-direction: reverse; -ms-flex-direction: column-reverse; flex-direction: column-reverse; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "flex-grow-0": {
     "body": "flex-grow-0${1| ,-ns,-m,-l|}",
     "prefix":
       "flex-grow-0 { -webkit-box-flex: 0; -ms-flex-positive: 0; flex-grow: 0; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "flex-grow-1": {
     "body": "flex-grow-1${1| ,-ns,-m,-l|}",
     "prefix":
       "flex-grow-1 { -webkit-box-flex: 1; -ms-flex-positive: 1; flex-grow: 1; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "flex-none": {
     "body": "flex-none${1| ,-ns,-m,-l|}",
     "prefix": "flex-none { -webkit-box-flex: 0; -ms-flex: none; flex: none; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "flex-nowrap": {
     "body": "flex-nowrap${1| ,-ns,-m,-l|}",
     "prefix": "flex-nowrap { -ms-flex-wrap: nowrap; flex-wrap: nowrap; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "flex-row": {
     "body": "flex-row${1| ,-ns,-m,-l|}",
     "prefix":
       "flex-row { -webkit-box-orient: horizontal; -webkit-box-direction: normal; -ms-flex-direction: row; flex-direction: row; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "flex-row-reverse": {
     "body": "flex-row-reverse${1| ,-ns,-m,-l|}",
     "prefix":
       "flex-row-reverse { -webkit-box-orient: horizontal; -webkit-box-direction: reverse; -ms-flex-direction: row-reverse; flex-direction: row-reverse; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "flex-shrink-0": {
     "body": "flex-shrink-0${1| ,-ns,-m,-l|}",
     "prefix": "flex-shrink-0 { -ms-flex-negative: 0; flex-shrink: 0; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "flex-shrink-1": {
     "body": "flex-shrink-1${1| ,-ns,-m,-l|}",
     "prefix": "flex-shrink-1 { -ms-flex-negative: 1; flex-shrink: 1; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "flex-wrap": {
     "body": "flex-wrap${1| ,-ns,-m,-l|}",
     "prefix": "flex-wrap { -ms-flex-wrap: wrap; flex-wrap: wrap; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "flex-wrap-reverse": {
     "body": "flex-wrap-reverse${1| ,-ns,-m,-l|}",
     "prefix":
       "flex-wrap-reverse { -ms-flex-wrap: wrap-reverse; flex-wrap: wrap-reverse; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "fn": {
     "body": "fn${1| ,-ns,-m,-l|}",
     "prefix": "fn { float: none; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "fr": {
     "body": "fr${1| ,-ns,-m,-l|}",
     "prefix": "fr { float: right; _display: inline; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "fs-normal": {
     "body": "fs-normal${1| ,-ns,-m,-l|}",
     "prefix": "fs-normal { font-style: normal; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "fw1": {
     "body": "fw1${1| ,-ns,-m,-l|}",
     "prefix": "fw1 { font-weight: 100; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "fw2": {
     "body": "fw2${1| ,-ns,-m,-l|}",
     "prefix": "fw2 { font-weight: 200; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "fw3": {
     "body": "fw3${1| ,-ns,-m,-l|}",
     "prefix": "fw3 { font-weight: 300; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "fw4": {
     "body": "fw4${1| ,-ns,-m,-l|}",
     "prefix": "fw4 { font-weight: 400; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "fw5": {
     "body": "fw5${1| ,-ns,-m,-l|}",
     "prefix": "fw5 { font-weight: 500; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "fw6": {
     "body": "fw6${1| ,-ns,-m,-l|}",
     "prefix": "fw6 { font-weight: 600; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "fw7": {
     "body": "fw7${1| ,-ns,-m,-l|}",
     "prefix": "fw7 { font-weight: 700; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "fw8": {
     "body": "fw8${1| ,-ns,-m,-l|}",
     "prefix": "fw8 { font-weight: 800; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "fw9": {
     "body": "fw9${1| ,-ns,-m,-l|}",
     "prefix": "fw9 { font-weight: 900; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "garamond": {
     "body": "garamond",
     "prefix": "garamond { font-family: garamond, serif; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "georgia": {
     "body": "georgia",
     "prefix": "georgia { font-family: georgia, serif; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "glow": {
     "body": "glow",
     "prefix": "glow { opacity: 1; transition: opacity .15s ease-in; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "gold": {
     "body": "gold",
     "prefix": "gold { color: #ffb700; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "gray": {
     "body": "gray",
     "prefix": "gray { color: #777; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "green": {
     "body": "green",
     "prefix": "green { color: #19a974; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "grow": {
     "body": "grow",
     "prefix":
       "grow { -webkit-transform: scale( 1.05 ); transform: scale( 1.05 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "grow-large": {
     "body": "grow-large",
     "prefix":
       "grow-large { -webkit-transform: scale( 1.2 ); transform: scale( 1.2 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "h-100": {
     "body": "h-100${1| ,-ns,-m,-l|}",
     "prefix": "h-100 { height: 100%; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "h-25": {
     "body": "h-25${1| ,-ns,-m,-l|}",
     "prefix": "h-25 { height: 25%; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "h-50": {
     "body": "h-50${1| ,-ns,-m,-l|}",
     "prefix": "h-50 { height: 50%; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "h-75": {
     "body": "h-75${1| ,-ns,-m,-l|}",
     "prefix": "h-75 { height: 75%; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "h-auto": {
     "body": "h-auto${1| ,-ns,-m,-l|}",
     "prefix": "h-auto { height: auto; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "h-inherit": {
     "body": "h-inherit${1| ,-ns,-m,-l|}",
     "prefix": "h-inherit { height: inherit; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "h1": {
     "body": "h1${1| ,-ns,-m,-l|}",
     "prefix": "h1 { height: 1rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "h2": {
     "body": "h2${1| ,-ns,-m,-l|}",
     "prefix": "h2 { height: 2rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "h3": {
     "body": "h3${1| ,-ns,-m,-l|}",
     "prefix": "h3 { height: 4rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "h4": {
     "body": "h4${1| ,-ns,-m,-l|}",
     "prefix": "h4 { height: 8rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "h5": {
     "body": "h5${1| ,-ns,-m,-l|}",
     "prefix": "h5 { height: 16rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "helvetica": {
     "body": "helvetica",
     "prefix":
       "helvetica { font-family: 'helvetica neue', helvetica, sans-serif; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hide-child  child": {
     "body": "hide-child  child",
     "prefix":
       "hide-child  child { opacity: 1; transition: opacity .15s ease-in; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hide-child child": {
     "body": "hide-child child",
     "prefix":
       "hide-child child { opacity: 1; transition: opacity .15s ease-in; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hot-pink": {
     "body": "hot-pink",
     "prefix": "hot-pink { color: #ff41b4; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-black": {
     "body": "hover-bg-black",
     "prefix": "hover-bg-black { background-color: #000; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-black-10": {
     "body": "hover-bg-black-10",
     "prefix": "hover-bg-black-10 { background-color: rgba( 0, 0, 0, .1 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-black-20": {
     "body": "hover-bg-black-20",
     "prefix": "hover-bg-black-20 { background-color: rgba( 0, 0, 0, .2 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-black-30": {
     "body": "hover-bg-black-30",
     "prefix": "hover-bg-black-30 { background-color: rgba( 0, 0, 0, .3 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-black-40": {
     "body": "hover-bg-black-40",
     "prefix": "hover-bg-black-40 { background-color: rgba( 0, 0, 0, .4 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-black-50": {
     "body": "hover-bg-black-50",
     "prefix": "hover-bg-black-50 { background-color: rgba( 0, 0, 0, .5 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-black-60": {
     "body": "hover-bg-black-60",
     "prefix": "hover-bg-black-60 { background-color: rgba( 0, 0, 0, .6 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-black-70": {
     "body": "hover-bg-black-70",
     "prefix": "hover-bg-black-70 { background-color: rgba( 0, 0, 0, .7 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-black-80": {
     "body": "hover-bg-black-80",
     "prefix": "hover-bg-black-80 { background-color: rgba( 0, 0, 0, .8 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-black-90": {
     "body": "hover-bg-black-90",
     "prefix": "hover-bg-black-90 { background-color: rgba( 0, 0, 0, .9 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-blue": {
     "body": "hover-bg-blue",
     "prefix": "hover-bg-blue { background-color: #357edd; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-dark-blue": {
     "body": "hover-bg-dark-blue",
     "prefix": "hover-bg-dark-blue { background-color: #00449e; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-dark-gray": {
     "body": "hover-bg-dark-gray",
     "prefix": "hover-bg-dark-gray { background-color: #333; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-dark-green": {
     "body": "hover-bg-dark-green",
     "prefix": "hover-bg-dark-green { background-color: #137752; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-dark-pink": {
     "body": "hover-bg-dark-pink",
     "prefix": "hover-bg-dark-pink { background-color: #d5008f; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-dark-red": {
     "body": "hover-bg-dark-red",
     "prefix": "hover-bg-dark-red { background-color: #e7040f; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-gold": {
     "body": "hover-bg-gold",
     "prefix": "hover-bg-gold { background-color: #ffb700; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-gray": {
     "body": "hover-bg-gray",
     "prefix": "hover-bg-gray { background-color: #777; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-green": {
     "body": "hover-bg-green",
     "prefix": "hover-bg-green { background-color: #19a974; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-hot-pink": {
     "body": "hover-bg-hot-pink",
     "prefix": "hover-bg-hot-pink { background-color: #ff41b4; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-inherit": {
     "body": "hover-bg-inherit",
     "prefix": "hover-bg-inherit { background-color: inherit; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-light-blue": {
     "body": "hover-bg-light-blue",
     "prefix": "hover-bg-light-blue { background-color: #96ccff; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-light-gray": {
     "body": "hover-bg-light-gray",
     "prefix": "hover-bg-light-gray { background-color: #eee; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-light-green": {
     "body": "hover-bg-light-green",
     "prefix": "hover-bg-light-green { background-color: #9eebcf; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-light-pink": {
     "body": "hover-bg-light-pink",
     "prefix": "hover-bg-light-pink { background-color: #ffa3d7; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-light-purple": {
     "body": "hover-bg-light-purple",
     "prefix": "hover-bg-light-purple { background-color: #a463f2; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-light-red": {
     "body": "hover-bg-light-red",
     "prefix": "hover-bg-light-red { background-color: #ff725c; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-light-silver": {
     "body": "hover-bg-light-silver",
     "prefix": "hover-bg-light-silver { background-color: #aaa; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-light-yellow": {
     "body": "hover-bg-light-yellow",
     "prefix": "hover-bg-light-yellow { background-color: #fbf1a9; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-lightest-blue": {
     "body": "hover-bg-lightest-blue",
     "prefix": "hover-bg-lightest-blue { background-color: #cdecff; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-mid-gray": {
     "body": "hover-bg-mid-gray",
     "prefix": "hover-bg-mid-gray { background-color: #555; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-moon-gray": {
     "body": "hover-bg-moon-gray",
     "prefix": "hover-bg-moon-gray { background-color: #ccc; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-navy": {
     "body": "hover-bg-navy",
     "prefix": "hover-bg-navy { background-color: #001b44; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-near-black": {
     "body": "hover-bg-near-black",
     "prefix": "hover-bg-near-black { background-color: #111; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-near-white": {
     "body": "hover-bg-near-white",
     "prefix": "hover-bg-near-white { background-color: #f4f4f4; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-orange": {
     "body": "hover-bg-orange",
     "prefix": "hover-bg-orange { background-color: #ff6300; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-pink": {
     "body": "hover-bg-pink",
     "prefix": "hover-bg-pink { background-color: #ff80cc; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-purple": {
     "body": "hover-bg-purple",
     "prefix": "hover-bg-purple { background-color: #5e2ca5; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-red": {
     "body": "hover-bg-red",
     "prefix": "hover-bg-red { background-color: #ff4136; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-silver": {
     "body": "hover-bg-silver",
     "prefix": "hover-bg-silver { background-color: #999; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-transparent": {
     "body": "hover-bg-transparent",
     "prefix": "hover-bg-transparent { background-color: transparent; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-washed-blue": {
     "body": "hover-bg-washed-blue",
     "prefix": "hover-bg-washed-blue { background-color: #f6fffe; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-washed-green": {
     "body": "hover-bg-washed-green",
     "prefix": "hover-bg-washed-green { background-color: #e8fdf5; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-washed-red": {
     "body": "hover-bg-washed-red",
     "prefix": "hover-bg-washed-red { background-color: #ffdfdf; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-washed-yellow": {
     "body": "hover-bg-washed-yellow",
     "prefix": "hover-bg-washed-yellow { background-color: #fffceb; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-white": {
     "body": "hover-bg-white",
     "prefix": "hover-bg-white { background-color: #fff; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-white-10": {
     "body": "hover-bg-white-10",
     "prefix":
       "hover-bg-white-10 { background-color: rgba( 255, 255, 255, .1 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-white-20": {
     "body": "hover-bg-white-20",
     "prefix":
       "hover-bg-white-20 { background-color: rgba( 255, 255, 255, .2 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-white-30": {
     "body": "hover-bg-white-30",
     "prefix":
       "hover-bg-white-30 { background-color: rgba( 255, 255, 255, .3 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-white-40": {
     "body": "hover-bg-white-40",
     "prefix":
       "hover-bg-white-40 { background-color: rgba( 255, 255, 255, .4 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-white-50": {
     "body": "hover-bg-white-50",
     "prefix":
       "hover-bg-white-50 { background-color: rgba( 255, 255, 255, .5 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-white-60": {
     "body": "hover-bg-white-60",
     "prefix":
       "hover-bg-white-60 { background-color: rgba( 255, 255, 255, .6 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-white-70": {
     "body": "hover-bg-white-70",
     "prefix":
       "hover-bg-white-70 { background-color: rgba( 255, 255, 255, .7 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-white-80": {
     "body": "hover-bg-white-80",
     "prefix":
       "hover-bg-white-80 { background-color: rgba( 255, 255, 255, .8 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-white-90": {
     "body": "hover-bg-white-90",
     "prefix":
       "hover-bg-white-90 { background-color: rgba( 255, 255, 255, .9 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-bg-yellow": {
     "body": "hover-bg-yellow",
     "prefix": "hover-bg-yellow { background-color: #ffd700; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-black": {
     "body": "hover-black",
     "prefix": "hover-black { color: #000; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-black-10": {
     "body": "hover-black-10",
     "prefix": "hover-black-10 { color: rgba( 0, 0, 0, .1 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-black-20": {
     "body": "hover-black-20",
     "prefix": "hover-black-20 { color: rgba( 0, 0, 0, .2 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-black-30": {
     "body": "hover-black-30",
     "prefix": "hover-black-30 { color: rgba( 0, 0, 0, .3 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-black-40": {
     "body": "hover-black-40",
     "prefix": "hover-black-40 { color: rgba( 0, 0, 0, .4 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-black-50": {
     "body": "hover-black-50",
     "prefix": "hover-black-50 { color: rgba( 0, 0, 0, .5 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-black-60": {
     "body": "hover-black-60",
     "prefix": "hover-black-60 { color: rgba( 0, 0, 0, .6 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-black-70": {
     "body": "hover-black-70",
     "prefix": "hover-black-70 { color: rgba( 0, 0, 0, .7 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-black-80": {
     "body": "hover-black-80",
     "prefix": "hover-black-80 { color: rgba( 0, 0, 0, .8 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-black-90": {
     "body": "hover-black-90",
     "prefix": "hover-black-90 { color: rgba( 0, 0, 0, .9 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-blue": {
     "body": "hover-blue",
     "prefix": "hover-blue { color: #357edd; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-dark-blue": {
     "body": "hover-dark-blue",
     "prefix": "hover-dark-blue { color: #00449e; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-dark-gray": {
     "body": "hover-dark-gray",
     "prefix": "hover-dark-gray { color: #333; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-dark-green": {
     "body": "hover-dark-green",
     "prefix": "hover-dark-green { color: #137752; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-dark-pink": {
     "body": "hover-dark-pink",
     "prefix": "hover-dark-pink { color: #d5008f; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-dark-red": {
     "body": "hover-dark-red",
     "prefix": "hover-dark-red { color: #e7040f; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-gold": {
     "body": "hover-gold",
     "prefix": "hover-gold { color: #ffb700; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-gray": {
     "body": "hover-gray",
     "prefix": "hover-gray { color: #777; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-green": {
     "body": "hover-green",
     "prefix": "hover-green { color: #19a974; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-hot-pink": {
     "body": "hover-hot-pink",
     "prefix": "hover-hot-pink { color: #ff41b4; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-inherit": {
     "body": "hover-inherit",
     "prefix": "hover-inherit { color: inherit; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-light-blue": {
     "body": "hover-light-blue",
     "prefix": "hover-light-blue { color: #96ccff; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-light-gray": {
     "body": "hover-light-gray",
     "prefix": "hover-light-gray { color: #eee; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-light-green": {
     "body": "hover-light-green",
     "prefix": "hover-light-green { color: #9eebcf; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-light-pink": {
     "body": "hover-light-pink",
     "prefix": "hover-light-pink { color: #ffa3d7; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-light-purple": {
     "body": "hover-light-purple",
     "prefix": "hover-light-purple { color: #a463f2; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-light-red": {
     "body": "hover-light-red",
     "prefix": "hover-light-red { color: #ff725c; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-light-silver": {
     "body": "hover-light-silver",
     "prefix": "hover-light-silver { color: #aaa; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-light-yellow": {
     "body": "hover-light-yellow",
     "prefix": "hover-light-yellow { color: #fbf1a9; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-lightest-blue": {
     "body": "hover-lightest-blue",
     "prefix": "hover-lightest-blue { color: #cdecff; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-mid-gray": {
     "body": "hover-mid-gray",
     "prefix": "hover-mid-gray { color: #555; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-moon-gray": {
     "body": "hover-moon-gray",
     "prefix": "hover-moon-gray { color: #ccc; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-navy": {
     "body": "hover-navy",
     "prefix": "hover-navy { color: #001b44; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-near-black": {
     "body": "hover-near-black",
     "prefix": "hover-near-black { color: #111; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-near-white": {
     "body": "hover-near-white",
     "prefix": "hover-near-white { color: #f4f4f4; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-orange": {
     "body": "hover-orange",
     "prefix": "hover-orange { color: #ff6300; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-pink": {
     "body": "hover-pink",
     "prefix": "hover-pink { color: #ff80cc; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-purple": {
     "body": "hover-purple",
     "prefix": "hover-purple { color: #5e2ca5; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-red": {
     "body": "hover-red",
     "prefix": "hover-red { color: #ff4136; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-silver": {
     "body": "hover-silver",
     "prefix": "hover-silver { color: #999; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-washed-blue": {
     "body": "hover-washed-blue",
     "prefix": "hover-washed-blue { color: #f6fffe; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-washed-green": {
     "body": "hover-washed-green",
     "prefix": "hover-washed-green { color: #e8fdf5; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-washed-red": {
     "body": "hover-washed-red",
     "prefix": "hover-washed-red { color: #ffdfdf; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-washed-yellow": {
     "body": "hover-washed-yellow",
     "prefix": "hover-washed-yellow { color: #fffceb; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-white": {
     "body": "hover-white",
     "prefix": "hover-white { color: #fff; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-white-10": {
     "body": "hover-white-10",
     "prefix": "hover-white-10 { color: rgba( 255, 255, 255, .1 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-white-20": {
     "body": "hover-white-20",
     "prefix": "hover-white-20 { color: rgba( 255, 255, 255, .2 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-white-30": {
     "body": "hover-white-30",
     "prefix": "hover-white-30 { color: rgba( 255, 255, 255, .3 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-white-40": {
     "body": "hover-white-40",
     "prefix": "hover-white-40 { color: rgba( 255, 255, 255, .4 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-white-50": {
     "body": "hover-white-50",
     "prefix": "hover-white-50 { color: rgba( 255, 255, 255, .5 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-white-60": {
     "body": "hover-white-60",
     "prefix": "hover-white-60 { color: rgba( 255, 255, 255, .6 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-white-70": {
     "body": "hover-white-70",
     "prefix": "hover-white-70 { color: rgba( 255, 255, 255, .7 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-white-80": {
     "body": "hover-white-80",
     "prefix": "hover-white-80 { color: rgba( 255, 255, 255, .8 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-white-90": {
     "body": "hover-white-90",
     "prefix": "hover-white-90 { color: rgba( 255, 255, 255, .9 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "hover-yellow": {
     "body": "hover-yellow",
     "prefix": "hover-yellow { color: #ffd700; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "i": {
     "body": "i${1| ,-ns,-m,-l|}",
     "prefix": "i { font-style: italic; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "indent": {
     "body": "indent${1| ,-ns,-m,-l|}",
     "prefix": "indent { text-indent: 1em; margin-top: 0; margin-bottom: 0; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "inline-flex": {
     "body": "inline-flex${1| ,-ns,-m,-l|}",
     "prefix":
       "inline-flex { display: -webkit-inline-box; display: -ms-inline-flexbox; display: inline-flex; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "input-reset": {
     "body": "input-reset",
     "prefix":
       "input-reset { -webkit-appearance: none; -moz-appearance: none; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "items-baseline": {
     "body": "items-baseline${1| ,-ns,-m,-l|}",
     "prefix":
       "items-baseline { -webkit-box-align: baseline; -ms-flex-align: baseline; align-items: baseline; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "items-center": {
     "body": "items-center${1| ,-ns,-m,-l|}",
     "prefix":
       "items-center { -webkit-box-align: center; -ms-flex-align: center; align-items: center; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "items-end": {
     "body": "items-end${1| ,-ns,-m,-l|}",
     "prefix":
       "items-end { -webkit-box-align: end; -ms-flex-align: end; align-items: flex-end; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "items-start": {
     "body": "items-start${1| ,-ns,-m,-l|}",
     "prefix":
       "items-start { -webkit-box-align: start; -ms-flex-align: start; align-items: flex-start; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "items-stretch": {
     "body": "items-stretch${1| ,-ns,-m,-l|}",
     "prefix":
       "items-stretch { -webkit-box-align: stretch; -ms-flex-align: stretch; align-items: stretch; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "justify-around": {
     "body": "justify-around${1| ,-ns,-m,-l|}",
     "prefix":
       "justify-around { -ms-flex-pack: distribute; justify-content: space-around; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "justify-between": {
     "body": "justify-between${1| ,-ns,-m,-l|}",
     "prefix":
       "justify-between { -webkit-box-pack: justify; -ms-flex-pack: justify; justify-content: space-between; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "justify-center": {
     "body": "justify-center${1| ,-ns,-m,-l|}",
     "prefix":
       "justify-center { -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "justify-end": {
     "body": "justify-end${1| ,-ns,-m,-l|}",
     "prefix":
       "justify-end { -webkit-box-pack: end; -ms-flex-pack: end; justify-content: flex-end; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "justify-start": {
     "body": "justify-start${1| ,-ns,-m,-l|}",
     "prefix":
       "justify-start { -webkit-box-pack: start; -ms-flex-pack: start; justify-content: flex-start; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "left--1": {
     "body": "left--1${1| ,-ns,-m,-l|}",
     "prefix": "left--1 { left: -1rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "left--2": {
     "body": "left--2${1| ,-ns,-m,-l|}",
     "prefix": "left--2 { left: -2rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "left-0": {
     "body": "left-0${1| ,-ns,-m,-l|}",
     "prefix": "left-0 { left: 0; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "left-1": {
     "body": "left-1${1| ,-ns,-m,-l|}",
     "prefix": "left-1 { left: 1rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "left-2": {
     "body": "left-2${1| ,-ns,-m,-l|}",
     "prefix": "left-2 { left: 2rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "lh-copy": {
     "body": "lh-copy${1| ,-ns,-m,-l|}",
     "prefix": "lh-copy { line-height: 1.5; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "lh-solid": {
     "body": "lh-solid${1| ,-ns,-m,-l|}",
     "prefix": "lh-solid { line-height: 1; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "lh-title": {
     "body": "lh-title${1| ,-ns,-m,-l|}",
     "prefix": "lh-title { line-height: 1.25; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "light-blue": {
     "body": "light-blue",
     "prefix": "light-blue { color: #96ccff; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "light-gray": {
     "body": "light-gray",
     "prefix": "light-gray { color: #eee; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "light-green": {
     "body": "light-green",
     "prefix": "light-green { color: #9eebcf; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "light-pink": {
     "body": "light-pink",
     "prefix": "light-pink { color: #ffa3d7; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "light-purple": {
     "body": "light-purple",
     "prefix": "light-purple { color: #a463f2; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "light-red": {
     "body": "light-red",
     "prefix": "light-red { color: #ff725c; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "light-silver": {
     "body": "light-silver",
     "prefix": "light-silver { color: #aaa; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "light-yellow": {
     "body": "light-yellow",
     "prefix": "light-yellow { color: #fbf1a9; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "lightest-blue": {
     "body": "lightest-blue",
     "prefix": "lightest-blue { color: #cdecff; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "link": {
     "body": "link",
     "prefix": "link { transition: color .15s ease-in; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "link:link": {
     "body": "link:link",
     "prefix": "link:link { transition: color .15s ease-in; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "link:visited": {
     "body": "link:visited",
     "prefix": "link:visited { transition: color .15s ease-in; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "list": {
     "body": "list",
     "prefix": "list { list-style-type: none; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "ma0": {
     "body": "ma0${1| ,-ns,-m,-l|}",
     "prefix": "ma0 { margin: 0; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "ma1": {
     "body": "ma1${1| ,-ns,-m,-l|}",
     "prefix": "ma1 { margin: .25rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "ma2": {
     "body": "ma2${1| ,-ns,-m,-l|}",
     "prefix": "ma2 { margin: .5rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "ma3": {
     "body": "ma3${1| ,-ns,-m,-l|}",
     "prefix": "ma3 { margin: 1rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "ma4": {
     "body": "ma4${1| ,-ns,-m,-l|}",
     "prefix": "ma4 { margin: 2rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "ma5": {
     "body": "ma5${1| ,-ns,-m,-l|}",
     "prefix": "ma5 { margin: 4rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "ma6": {
     "body": "ma6${1| ,-ns,-m,-l|}",
     "prefix": "ma6 { margin: 8rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "ma7": {
     "body": "ma7${1| ,-ns,-m,-l|}",
     "prefix": "ma7 { margin: 16rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mb0": {
     "body": "mb0${1| ,-ns,-m,-l|}",
     "prefix": "mb0 { margin-bottom: 0; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mb1": {
     "body": "mb1${1| ,-ns,-m,-l|}",
     "prefix": "mb1 { margin-bottom: .25rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mb2": {
     "body": "mb2${1| ,-ns,-m,-l|}",
     "prefix": "mb2 { margin-bottom: .5rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mb3": {
     "body": "mb3${1| ,-ns,-m,-l|}",
     "prefix": "mb3 { margin-bottom: 1rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mb4": {
     "body": "mb4${1| ,-ns,-m,-l|}",
     "prefix": "mb4 { margin-bottom: 2rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mb5": {
     "body": "mb5${1| ,-ns,-m,-l|}",
     "prefix": "mb5 { margin-bottom: 4rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mb6": {
     "body": "mb6${1| ,-ns,-m,-l|}",
     "prefix": "mb6 { margin-bottom: 8rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mb7": {
     "body": "mb7${1| ,-ns,-m,-l|}",
     "prefix": "mb7 { margin-bottom: 16rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "measure": {
     "body": "measure${1| ,-ns,-m,-l|}",
     "prefix": "measure { max-width: 30em; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "measure-narrow": {
     "body": "measure-narrow${1| ,-ns,-m,-l|}",
     "prefix": "measure-narrow { max-width: 20em; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "measure-wide": {
     "body": "measure-wide${1| ,-ns,-m,-l|}",
     "prefix": "measure-wide { max-width: 34em; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mh0": {
     "body": "mh0${1| ,-ns,-m,-l|}",
     "prefix": "mh0 { margin-left: 0; margin-right: 0; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mh1": {
     "body": "mh1${1| ,-ns,-m,-l|}",
     "prefix": "mh1 { margin-left: .25rem; margin-right: .25rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mh2": {
     "body": "mh2${1| ,-ns,-m,-l|}",
     "prefix": "mh2 { margin-left: .5rem; margin-right: .5rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mh3": {
     "body": "mh3${1| ,-ns,-m,-l|}",
     "prefix": "mh3 { margin-left: 1rem; margin-right: 1rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mh4": {
     "body": "mh4${1| ,-ns,-m,-l|}",
     "prefix": "mh4 { margin-left: 2rem; margin-right: 2rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mh5": {
     "body": "mh5${1| ,-ns,-m,-l|}",
     "prefix": "mh5 { margin-left: 4rem; margin-right: 4rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mh6": {
     "body": "mh6${1| ,-ns,-m,-l|}",
     "prefix": "mh6 { margin-left: 8rem; margin-right: 8rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mh7": {
     "body": "mh7${1| ,-ns,-m,-l|}",
     "prefix": "mh7 { margin-left: 16rem; margin-right: 16rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mid-gray": {
     "body": "mid-gray",
     "prefix": "mid-gray { color: #555; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "min-h-100": {
     "body": "min-h-100${1| ,-ns,-m,-l|}",
     "prefix": "min-h-100 { min-height: 100%; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "min-vh-100": {
     "body": "min-vh-100${1| ,-ns,-m,-l|}",
     "prefix": "min-vh-100 { min-height: 100vh; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "ml-auto": {
     "body": "ml-auto${1| ,-ns,-m,-l|}",
     "prefix": "ml-auto { margin-left: auto; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "ml0": {
     "body": "ml0${1| ,-ns,-m,-l|}",
     "prefix": "ml0 { margin-left: 0; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "ml1": {
     "body": "ml1${1| ,-ns,-m,-l|}",
     "prefix": "ml1 { margin-left: .25rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "ml2": {
     "body": "ml2${1| ,-ns,-m,-l|}",
     "prefix": "ml2 { margin-left: .5rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "ml3": {
     "body": "ml3${1| ,-ns,-m,-l|}",
     "prefix": "ml3 { margin-left: 1rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "ml4": {
     "body": "ml4${1| ,-ns,-m,-l|}",
     "prefix": "ml4 { margin-left: 2rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "ml5": {
     "body": "ml5${1| ,-ns,-m,-l|}",
     "prefix": "ml5 { margin-left: 4rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "ml6": {
     "body": "ml6${1| ,-ns,-m,-l|}",
     "prefix": "ml6 { margin-left: 8rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "ml7": {
     "body": "ml7${1| ,-ns,-m,-l|}",
     "prefix": "ml7 { margin-left: 16rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "moon-gray": {
     "body": "moon-gray",
     "prefix": "moon-gray { color: #ccc; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mr-auto": {
     "body": "mr-auto${1| ,-ns,-m,-l|}",
     "prefix": "mr-auto { margin-right: auto; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mr0": {
     "body": "mr0${1| ,-ns,-m,-l|}",
     "prefix": "mr0 { margin-right: 0; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mr1": {
     "body": "mr1${1| ,-ns,-m,-l|}",
     "prefix": "mr1 { margin-right: .25rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mr2": {
     "body": "mr2${1| ,-ns,-m,-l|}",
     "prefix": "mr2 { margin-right: .5rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mr3": {
     "body": "mr3${1| ,-ns,-m,-l|}",
     "prefix": "mr3 { margin-right: 1rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mr4": {
     "body": "mr4${1| ,-ns,-m,-l|}",
     "prefix": "mr4 { margin-right: 2rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mr5": {
     "body": "mr5${1| ,-ns,-m,-l|}",
     "prefix": "mr5 { margin-right: 4rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mr6": {
     "body": "mr6${1| ,-ns,-m,-l|}",
     "prefix": "mr6 { margin-right: 8rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mr7": {
     "body": "mr7${1| ,-ns,-m,-l|}",
     "prefix": "mr7 { margin-right: 16rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mt0": {
     "body": "mt0${1| ,-ns,-m,-l|}",
     "prefix": "mt0 { margin-top: 0; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mt1": {
     "body": "mt1${1| ,-ns,-m,-l|}",
     "prefix": "mt1 { margin-top: .25rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mt2": {
     "body": "mt2${1| ,-ns,-m,-l|}",
     "prefix": "mt2 { margin-top: .5rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mt3": {
     "body": "mt3${1| ,-ns,-m,-l|}",
     "prefix": "mt3 { margin-top: 1rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mt4": {
     "body": "mt4${1| ,-ns,-m,-l|}",
     "prefix": "mt4 { margin-top: 2rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mt5": {
     "body": "mt5${1| ,-ns,-m,-l|}",
     "prefix": "mt5 { margin-top: 4rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mt6": {
     "body": "mt6${1| ,-ns,-m,-l|}",
     "prefix": "mt6 { margin-top: 8rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mt7": {
     "body": "mt7${1| ,-ns,-m,-l|}",
     "prefix": "mt7 { margin-top: 16rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mv0": {
     "body": "mv0${1| ,-ns,-m,-l|}",
     "prefix": "mv0 { margin-top: 0; margin-bottom: 0; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mv1": {
     "body": "mv1${1| ,-ns,-m,-l|}",
     "prefix": "mv1 { margin-top: .25rem; margin-bottom: .25rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mv2": {
     "body": "mv2${1| ,-ns,-m,-l|}",
     "prefix": "mv2 { margin-top: .5rem; margin-bottom: .5rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mv3": {
     "body": "mv3${1| ,-ns,-m,-l|}",
     "prefix": "mv3 { margin-top: 1rem; margin-bottom: 1rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mv4": {
     "body": "mv4${1| ,-ns,-m,-l|}",
     "prefix": "mv4 { margin-top: 2rem; margin-bottom: 2rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mv5": {
     "body": "mv5${1| ,-ns,-m,-l|}",
     "prefix": "mv5 { margin-top: 4rem; margin-bottom: 4rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mv6": {
     "body": "mv6${1| ,-ns,-m,-l|}",
     "prefix": "mv6 { margin-top: 8rem; margin-bottom: 8rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mv7": {
     "body": "mv7${1| ,-ns,-m,-l|}",
     "prefix": "mv7 { margin-top: 16rem; margin-bottom: 16rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mw-100": {
     "body": "mw-100${1| ,-ns,-m,-l|}",
     "prefix": "mw-100 { max-width: 100%; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mw-none": {
     "body": "mw-none${1| ,-ns,-m,-l|}",
     "prefix": "mw-none { max-width: none; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mw1": {
     "body": "mw1${1| ,-ns,-m,-l|}",
     "prefix": "mw1 { max-width: 1rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mw2": {
     "body": "mw2${1| ,-ns,-m,-l|}",
     "prefix": "mw2 { max-width: 2rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mw3": {
     "body": "mw3${1| ,-ns,-m,-l|}",
     "prefix": "mw3 { max-width: 4rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mw4": {
     "body": "mw4${1| ,-ns,-m,-l|}",
     "prefix": "mw4 { max-width: 8rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mw5": {
     "body": "mw5${1| ,-ns,-m,-l|}",
     "prefix": "mw5 { max-width: 16rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mw6": {
     "body": "mw6${1| ,-ns,-m,-l|}",
     "prefix": "mw6 { max-width: 32rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mw7": {
     "body": "mw7${1| ,-ns,-m,-l|}",
     "prefix": "mw7 { max-width: 48rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mw8": {
     "body": "mw8${1| ,-ns,-m,-l|}",
     "prefix": "mw8 { max-width: 64rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "mw9": {
     "body": "mw9${1| ,-ns,-m,-l|}",
     "prefix": "mw9 { max-width: 96rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "na1": {
     "body": "na1${1| ,-ns,-m,-l|}",
     "prefix": "na1 { margin: -.25rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "na2": {
     "body": "na2${1| ,-ns,-m,-l|}",
     "prefix": "na2 { margin: -.5rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "na3": {
     "body": "na3${1| ,-ns,-m,-l|}",
     "prefix": "na3 { margin: -1rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "na4": {
     "body": "na4${1| ,-ns,-m,-l|}",
     "prefix": "na4 { margin: -2rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "na5": {
     "body": "na5${1| ,-ns,-m,-l|}",
     "prefix": "na5 { margin: -4rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "na6": {
     "body": "na6${1| ,-ns,-m,-l|}",
     "prefix": "na6 { margin: -8rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "na7": {
     "body": "na7${1| ,-ns,-m,-l|}",
     "prefix": "na7 { margin: -16rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "navy": {
     "body": "navy",
     "prefix": "navy { color: #001b44; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "nb1": {
     "body": "nb1${1| ,-ns,-m,-l|}",
     "prefix": "nb1 { margin-bottom: -.25rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "nb2": {
     "body": "nb2${1| ,-ns,-m,-l|}",
     "prefix": "nb2 { margin-bottom: -.5rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "nb3": {
     "body": "nb3${1| ,-ns,-m,-l|}",
     "prefix": "nb3 { margin-bottom: -1rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "nb4": {
     "body": "nb4${1| ,-ns,-m,-l|}",
     "prefix": "nb4 { margin-bottom: -2rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "nb5": {
     "body": "nb5${1| ,-ns,-m,-l|}",
     "prefix": "nb5 { margin-bottom: -4rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "nb6": {
     "body": "nb6${1| ,-ns,-m,-l|}",
     "prefix": "nb6 { margin-bottom: -8rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "nb7": {
     "body": "nb7${1| ,-ns,-m,-l|}",
     "prefix": "nb7 { margin-bottom: -16rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "near-black": {
     "body": "near-black",
     "prefix": "near-black { color: #111; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "near-white": {
     "body": "near-white",
     "prefix": "near-white { color: #f4f4f4; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "nested-copy-indent": {
     "body": "nested-copy-indent",
     "prefix":
       "nested-copy-indent { text-indent: 1em; margin-top: 0; margin-bottom: 0; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "nested-copy-line-height": {
     "body": "nested-copy-line-height",
     "prefix": "nested-copy-line-height { margin-top: 1.5em; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "nested-copy-separator": {
     "body": "nested-copy-separator",
     "prefix": "nested-copy-separator { margin-top: 1.5em; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "nested-headline-line-height": {
     "body": "nested-headline-line-height",
     "prefix": "nested-headline-line-height { line-height: 1.25; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "nested-img": {
     "body": "nested-img",
     "prefix": "nested-img { width: 100%; max-width: 100%; display: block; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "nested-links": {
     "body": "nested-links",
     "prefix":
       "nested-links { color: #96ccff; transition: color .15s ease-in; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "nested-list-reset": {
     "body": "nested-list-reset",
     "prefix":
       "nested-list-reset { padding-left: 0; margin-left: 0; list-style-type: none; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "nl1": {
     "body": "nl1${1| ,-ns,-m,-l|}",
     "prefix": "nl1 { margin-left: -.25rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "nl2": {
     "body": "nl2${1| ,-ns,-m,-l|}",
     "prefix": "nl2 { margin-left: -.5rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "nl3": {
     "body": "nl3${1| ,-ns,-m,-l|}",
     "prefix": "nl3 { margin-left: -1rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "nl4": {
     "body": "nl4${1| ,-ns,-m,-l|}",
     "prefix": "nl4 { margin-left: -2rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "nl5": {
     "body": "nl5${1| ,-ns,-m,-l|}",
     "prefix": "nl5 { margin-left: -4rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "nl6": {
     "body": "nl6${1| ,-ns,-m,-l|}",
     "prefix": "nl6 { margin-left: -8rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "nl7": {
     "body": "nl7${1| ,-ns,-m,-l|}",
     "prefix": "nl7 { margin-left: -16rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "no-underline": {
     "body": "no-underline${1| ,-ns,-m,-l|}",
     "prefix": "no-underline { text-decoration: none; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "normal": {
     "body": "normal${1| ,-ns,-m,-l|}",
     "prefix": "normal { font-weight: normal; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "nowrap": {
     "body": "nowrap${1| ,-ns,-m,-l|}",
     "prefix": "nowrap { white-space: nowrap; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "nr1": {
     "body": "nr1${1| ,-ns,-m,-l|}",
     "prefix": "nr1 { margin-right: -.25rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "nr2": {
     "body": "nr2${1| ,-ns,-m,-l|}",
     "prefix": "nr2 { margin-right: -.5rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "nr3": {
     "body": "nr3${1| ,-ns,-m,-l|}",
     "prefix": "nr3 { margin-right: -1rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "nr4": {
     "body": "nr4${1| ,-ns,-m,-l|}",
     "prefix": "nr4 { margin-right: -2rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "nr5": {
     "body": "nr5${1| ,-ns,-m,-l|}",
     "prefix": "nr5 { margin-right: -4rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "nr6": {
     "body": "nr6${1| ,-ns,-m,-l|}",
     "prefix": "nr6 { margin-right: -8rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "nr7": {
     "body": "nr7${1| ,-ns,-m,-l|}",
     "prefix": "nr7 { margin-right: -16rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "nt1": {
     "body": "nt1${1| ,-ns,-m,-l|}",
     "prefix": "nt1 { margin-top: -.25rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "nt2": {
     "body": "nt2${1| ,-ns,-m,-l|}",
     "prefix": "nt2 { margin-top: -.5rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "nt3": {
     "body": "nt3${1| ,-ns,-m,-l|}",
     "prefix": "nt3 { margin-top: -1rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "nt4": {
     "body": "nt4${1| ,-ns,-m,-l|}",
     "prefix": "nt4 { margin-top: -2rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "nt5": {
     "body": "nt5${1| ,-ns,-m,-l|}",
     "prefix": "nt5 { margin-top: -4rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "nt6": {
     "body": "nt6${1| ,-ns,-m,-l|}",
     "prefix": "nt6 { margin-top: -8rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "nt7": {
     "body": "nt7${1| ,-ns,-m,-l|}",
     "prefix": "nt7 { margin-top: -16rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "o-0": {
     "body": "o-0",
     "prefix": "o-0 { opacity: 0; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "o-025": {
     "body": "o-025",
     "prefix": "o-025 { opacity: .025; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "o-05": {
     "body": "o-05",
     "prefix": "o-05 { opacity: .05; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "o-10": {
     "body": "o-10",
     "prefix": "o-10 { opacity: .1; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "o-100": {
     "body": "o-100",
     "prefix": "o-100 { opacity: 1; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "o-20": {
     "body": "o-20",
     "prefix": "o-20 { opacity: .2; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "o-30": {
     "body": "o-30",
     "prefix": "o-30 { opacity: .3; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "o-40": {
     "body": "o-40",
     "prefix": "o-40 { opacity: .4; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "o-50": {
     "body": "o-50",
     "prefix": "o-50 { opacity: .5; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "o-60": {
     "body": "o-60",
     "prefix": "o-60 { opacity: .6; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "o-70": {
     "body": "o-70",
     "prefix": "o-70 { opacity: .7; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "o-80": {
     "body": "o-80",
     "prefix": "o-80 { opacity: .8; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "o-90": {
     "body": "o-90",
     "prefix": "o-90 { opacity: .9; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "orange": {
     "body": "orange",
     "prefix": "orange { color: #ff6300; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "order-0": {
     "body": "order-0${1| ,-ns,-m,-l|}",
     "prefix":
       "order-0 { -webkit-box-ordinal-group: 1; -ms-flex-order: 0; order: 0; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "order-1": {
     "body": "order-1${1| ,-ns,-m,-l|}",
     "prefix":
       "order-1 { -webkit-box-ordinal-group: 2; -ms-flex-order: 1; order: 1; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "order-2": {
     "body": "order-2${1| ,-ns,-m,-l|}",
     "prefix":
       "order-2 { -webkit-box-ordinal-group: 3; -ms-flex-order: 2; order: 2; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "order-3": {
     "body": "order-3${1| ,-ns,-m,-l|}",
     "prefix":
       "order-3 { -webkit-box-ordinal-group: 4; -ms-flex-order: 3; order: 3; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "order-4": {
     "body": "order-4${1| ,-ns,-m,-l|}",
     "prefix":
       "order-4 { -webkit-box-ordinal-group: 5; -ms-flex-order: 4; order: 4; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "order-5": {
     "body": "order-5${1| ,-ns,-m,-l|}",
     "prefix":
       "order-5 { -webkit-box-ordinal-group: 6; -ms-flex-order: 5; order: 5; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "order-6": {
     "body": "order-6${1| ,-ns,-m,-l|}",
     "prefix":
       "order-6 { -webkit-box-ordinal-group: 7; -ms-flex-order: 6; order: 6; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "order-7": {
     "body": "order-7${1| ,-ns,-m,-l|}",
     "prefix":
       "order-7 { -webkit-box-ordinal-group: 8; -ms-flex-order: 7; order: 7; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "order-8": {
     "body": "order-8${1| ,-ns,-m,-l|}",
     "prefix":
       "order-8 { -webkit-box-ordinal-group: 9; -ms-flex-order: 8; order: 8; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "order-last": {
     "body": "order-last${1| ,-ns,-m,-l|}",
     "prefix":
       "order-last { -webkit-box-ordinal-group: 100000; -ms-flex-order: 99999; order: 99999; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "outline": {
     "body": "outline${1| ,-ns,-m,-l|}",
     "prefix": "outline { outline: 1px solid; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "outline-0": {
     "body": "outline-0${1| ,-ns,-m,-l|}",
     "prefix": "outline-0 { outline: 0; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "outline-transparent": {
     "body": "outline-transparent${1| ,-ns,-m,-l|}",
     "prefix": "outline-transparent { outline: 1px solid transparent; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "overflow-auto": {
     "body": "overflow-auto${1| ,-ns,-m,-l|}",
     "prefix": "overflow-auto { overflow: auto; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "overflow-container": {
     "body": "overflow-container",
     "prefix": "overflow-container { overflow-y: scroll; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "overflow-hidden": {
     "body": "overflow-hidden${1| ,-ns,-m,-l|}",
     "prefix": "overflow-hidden { overflow: hidden; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "overflow-scroll": {
     "body": "overflow-scroll${1| ,-ns,-m,-l|}",
     "prefix": "overflow-scroll { overflow: scroll; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "overflow-visible": {
     "body": "overflow-visible${1| ,-ns,-m,-l|}",
     "prefix": "overflow-visible { overflow: visible; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "overflow-x-auto": {
     "body": "overflow-x-auto${1| ,-ns,-m,-l|}",
     "prefix": "overflow-x-auto { overflow-x: auto; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "overflow-x-hidden": {
     "body": "overflow-x-hidden${1| ,-ns,-m,-l|}",
     "prefix": "overflow-x-hidden { overflow-x: hidden; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "overflow-x-scroll": {
     "body": "overflow-x-scroll${1| ,-ns,-m,-l|}",
     "prefix": "overflow-x-scroll { overflow-x: scroll; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "overflow-x-visible": {
     "body": "overflow-x-visible${1| ,-ns,-m,-l|}",
     "prefix": "overflow-x-visible { overflow-x: visible; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "overflow-y-auto": {
     "body": "overflow-y-auto${1| ,-ns,-m,-l|}",
     "prefix": "overflow-y-auto { overflow-y: auto; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "overflow-y-hidden": {
     "body": "overflow-y-hidden${1| ,-ns,-m,-l|}",
     "prefix": "overflow-y-hidden { overflow-y: hidden; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "overflow-y-scroll": {
     "body": "overflow-y-scroll${1| ,-ns,-m,-l|}",
     "prefix": "overflow-y-scroll { overflow-y: scroll; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "overflow-y-visible": {
     "body": "overflow-y-visible${1| ,-ns,-m,-l|}",
     "prefix": "overflow-y-visible { overflow-y: visible; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pa0": {
     "body": "pa0${1| ,-ns,-m,-l|}",
     "prefix": "pa0 { padding: 0; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pa1": {
     "body": "pa1${1| ,-ns,-m,-l|}",
     "prefix": "pa1 { padding: .25rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pa2": {
     "body": "pa2${1| ,-ns,-m,-l|}",
     "prefix": "pa2 { padding: .5rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pa3": {
     "body": "pa3${1| ,-ns,-m,-l|}",
     "prefix": "pa3 { padding: 1rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pa4": {
     "body": "pa4${1| ,-ns,-m,-l|}",
     "prefix": "pa4 { padding: 2rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pa5": {
     "body": "pa5${1| ,-ns,-m,-l|}",
     "prefix": "pa5 { padding: 4rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pa6": {
     "body": "pa6${1| ,-ns,-m,-l|}",
     "prefix": "pa6 { padding: 8rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pa7": {
     "body": "pa7${1| ,-ns,-m,-l|}",
     "prefix": "pa7 { padding: 16rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pb0": {
     "body": "pb0${1| ,-ns,-m,-l|}",
     "prefix": "pb0 { padding-bottom: 0; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pb1": {
     "body": "pb1${1| ,-ns,-m,-l|}",
     "prefix": "pb1 { padding-bottom: .25rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pb2": {
     "body": "pb2${1| ,-ns,-m,-l|}",
     "prefix": "pb2 { padding-bottom: .5rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pb3": {
     "body": "pb3${1| ,-ns,-m,-l|}",
     "prefix": "pb3 { padding-bottom: 1rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pb4": {
     "body": "pb4${1| ,-ns,-m,-l|}",
     "prefix": "pb4 { padding-bottom: 2rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pb5": {
     "body": "pb5${1| ,-ns,-m,-l|}",
     "prefix": "pb5 { padding-bottom: 4rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pb6": {
     "body": "pb6${1| ,-ns,-m,-l|}",
     "prefix": "pb6 { padding-bottom: 8rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pb7": {
     "body": "pb7${1| ,-ns,-m,-l|}",
     "prefix": "pb7 { padding-bottom: 16rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "ph0": {
     "body": "ph0${1| ,-ns,-m,-l|}",
     "prefix": "ph0 { padding-left: 0; padding-right: 0; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "ph1": {
     "body": "ph1${1| ,-ns,-m,-l|}",
     "prefix": "ph1 { padding-left: .25rem; padding-right: .25rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "ph2": {
     "body": "ph2${1| ,-ns,-m,-l|}",
     "prefix": "ph2 { padding-left: .5rem; padding-right: .5rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "ph3": {
     "body": "ph3${1| ,-ns,-m,-l|}",
     "prefix": "ph3 { padding-left: 1rem; padding-right: 1rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "ph4": {
     "body": "ph4${1| ,-ns,-m,-l|}",
     "prefix": "ph4 { padding-left: 2rem; padding-right: 2rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "ph5": {
     "body": "ph5${1| ,-ns,-m,-l|}",
     "prefix": "ph5 { padding-left: 4rem; padding-right: 4rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "ph6": {
     "body": "ph6${1| ,-ns,-m,-l|}",
     "prefix": "ph6 { padding-left: 8rem; padding-right: 8rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "ph7": {
     "body": "ph7${1| ,-ns,-m,-l|}",
     "prefix": "ph7 { padding-left: 16rem; padding-right: 16rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pink": {
     "body": "pink",
     "prefix": "pink { color: #ff80cc; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pl0": {
     "body": "pl0${1| ,-ns,-m,-l|}",
     "prefix": "pl0 { padding-left: 0; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pl1": {
     "body": "pl1${1| ,-ns,-m,-l|}",
     "prefix": "pl1 { padding-left: .25rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pl2": {
     "body": "pl2${1| ,-ns,-m,-l|}",
     "prefix": "pl2 { padding-left: .5rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pl3": {
     "body": "pl3${1| ,-ns,-m,-l|}",
     "prefix": "pl3 { padding-left: 1rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pl4": {
     "body": "pl4${1| ,-ns,-m,-l|}",
     "prefix": "pl4 { padding-left: 2rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pl5": {
     "body": "pl5${1| ,-ns,-m,-l|}",
     "prefix": "pl5 { padding-left: 4rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pl6": {
     "body": "pl6${1| ,-ns,-m,-l|}",
     "prefix": "pl6 { padding-left: 8rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pl7": {
     "body": "pl7${1| ,-ns,-m,-l|}",
     "prefix": "pl7 { padding-left: 16rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pointer": {
     "body": "pointer",
     "prefix": "pointer { cursor: pointer; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pr0": {
     "body": "pr0${1| ,-ns,-m,-l|}",
     "prefix": "pr0 { padding-right: 0; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pr1": {
     "body": "pr1${1| ,-ns,-m,-l|}",
     "prefix": "pr1 { padding-right: .25rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pr2": {
     "body": "pr2${1| ,-ns,-m,-l|}",
     "prefix": "pr2 { padding-right: .5rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pr3": {
     "body": "pr3${1| ,-ns,-m,-l|}",
     "prefix": "pr3 { padding-right: 1rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pr4": {
     "body": "pr4${1| ,-ns,-m,-l|}",
     "prefix": "pr4 { padding-right: 2rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pr5": {
     "body": "pr5${1| ,-ns,-m,-l|}",
     "prefix": "pr5 { padding-right: 4rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pr6": {
     "body": "pr6${1| ,-ns,-m,-l|}",
     "prefix": "pr6 { padding-right: 8rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pr7": {
     "body": "pr7${1| ,-ns,-m,-l|}",
     "prefix": "pr7 { padding-right: 16rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pre": {
     "body": "pre${1| ,-ns,-m,-l|}",
     "prefix": "pre { white-space: pre; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pt0": {
     "body": "pt0${1| ,-ns,-m,-l|}",
     "prefix": "pt0 { padding-top: 0; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pt1": {
     "body": "pt1${1| ,-ns,-m,-l|}",
     "prefix": "pt1 { padding-top: .25rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pt2": {
     "body": "pt2${1| ,-ns,-m,-l|}",
     "prefix": "pt2 { padding-top: .5rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pt3": {
     "body": "pt3${1| ,-ns,-m,-l|}",
     "prefix": "pt3 { padding-top: 1rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pt4": {
     "body": "pt4${1| ,-ns,-m,-l|}",
     "prefix": "pt4 { padding-top: 2rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pt5": {
     "body": "pt5${1| ,-ns,-m,-l|}",
     "prefix": "pt5 { padding-top: 4rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pt6": {
     "body": "pt6${1| ,-ns,-m,-l|}",
     "prefix": "pt6 { padding-top: 8rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pt7": {
     "body": "pt7${1| ,-ns,-m,-l|}",
     "prefix": "pt7 { padding-top: 16rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "purple": {
     "body": "purple",
     "prefix": "purple { color: #5e2ca5; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pv0": {
     "body": "pv0${1| ,-ns,-m,-l|}",
     "prefix": "pv0 { padding-top: 0; padding-bottom: 0; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pv1": {
     "body": "pv1${1| ,-ns,-m,-l|}",
     "prefix": "pv1 { padding-top: .25rem; padding-bottom: .25rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pv2": {
     "body": "pv2${1| ,-ns,-m,-l|}",
     "prefix": "pv2 { padding-top: .5rem; padding-bottom: .5rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pv3": {
     "body": "pv3${1| ,-ns,-m,-l|}",
     "prefix": "pv3 { padding-top: 1rem; padding-bottom: 1rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pv4": {
     "body": "pv4${1| ,-ns,-m,-l|}",
     "prefix": "pv4 { padding-top: 2rem; padding-bottom: 2rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pv5": {
     "body": "pv5${1| ,-ns,-m,-l|}",
     "prefix": "pv5 { padding-top: 4rem; padding-bottom: 4rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pv6": {
     "body": "pv6${1| ,-ns,-m,-l|}",
     "prefix": "pv6 { padding-top: 8rem; padding-bottom: 8rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "pv7": {
     "body": "pv7${1| ,-ns,-m,-l|}",
     "prefix": "pv7 { padding-top: 16rem; padding-bottom: 16rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "red": {
     "body": "red",
     "prefix": "red { color: #ff4136; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "relative": {
     "body": "relative${1| ,-ns,-m,-l|}",
     "prefix": "relative { position: relative; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "right--1": {
     "body": "right--1${1| ,-ns,-m,-l|}",
     "prefix": "right--1 { right: -1rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "right--2": {
     "body": "right--2${1| ,-ns,-m,-l|}",
     "prefix": "right--2 { right: -2rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "right-0": {
     "body": "right-0${1| ,-ns,-m,-l|}",
     "prefix": "right-0 { right: 0; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "right-1": {
     "body": "right-1${1| ,-ns,-m,-l|}",
     "prefix": "right-1 { right: 1rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "right-2": {
     "body": "right-2${1| ,-ns,-m,-l|}",
     "prefix": "right-2 { right: 2rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "rotate-135": {
     "body": "rotate-135${1| ,-ns,-m,-l|}",
     "prefix":
       "rotate-135 { -webkit-transform: rotate( 135deg ); transform: rotate( 135deg ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "rotate-180": {
     "body": "rotate-180${1| ,-ns,-m,-l|}",
     "prefix":
       "rotate-180 { -webkit-transform: rotate( 180deg ); transform: rotate( 180deg ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "rotate-225": {
     "body": "rotate-225${1| ,-ns,-m,-l|}",
     "prefix":
       "rotate-225 { -webkit-transform: rotate( 225deg ); transform: rotate( 225deg ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "rotate-270": {
     "body": "rotate-270${1| ,-ns,-m,-l|}",
     "prefix":
       "rotate-270 { -webkit-transform: rotate( 270deg ); transform: rotate( 270deg ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "rotate-315": {
     "body": "rotate-315${1| ,-ns,-m,-l|}",
     "prefix":
       "rotate-315 { -webkit-transform: rotate( 315deg ); transform: rotate( 315deg ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "rotate-45": {
     "body": "rotate-45${1| ,-ns,-m,-l|}",
     "prefix":
       "rotate-45 { -webkit-transform: rotate( 45deg ); transform: rotate( 45deg ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "rotate-90": {
     "body": "rotate-90${1| ,-ns,-m,-l|}",
     "prefix":
       "rotate-90 { -webkit-transform: rotate( 90deg ); transform: rotate( 90deg ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "sans-serif": {
     "body": "sans-serif",
     "prefix":
       "sans-serif { font-family: -apple-system, BlinkMacSystemFont, 'avenir next', avenir, 'helvetica neue', helvetica, ubuntu, roboto, noto, 'segoe ui', arial, sans-serif; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "self-baseline": {
     "body": "self-baseline${1| ,-ns,-m,-l|}",
     "prefix":
       "self-baseline { -ms-flex-item-align: baseline; align-self: baseline; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "self-center": {
     "body": "self-center${1| ,-ns,-m,-l|}",
     "prefix":
       "self-center { -ms-flex-item-align: center; -ms-grid-row-align: center; align-self: center; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "self-end": {
     "body": "self-end${1| ,-ns,-m,-l|}",
     "prefix": "self-end { -ms-flex-item-align: end; align-self: flex-end; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "self-start": {
     "body": "self-start${1| ,-ns,-m,-l|}",
     "prefix":
       "self-start { -ms-flex-item-align: start; align-self: flex-start; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "self-stretch": {
     "body": "self-stretch${1| ,-ns,-m,-l|}",
     "prefix":
       "self-stretch { -ms-flex-item-align: stretch; -ms-grid-row-align: stretch; align-self: stretch; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "serif": {
     "body": "serif",
     "prefix": "serif { font-family: georgia, times, serif; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "shadow-1": {
     "body": "shadow-1${1| ,-ns,-m,-l|}",
     "prefix": "shadow-1 { box-shadow: 0 0 4px 2px rgba( 0, 0, 0, .2 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "shadow-2": {
     "body": "shadow-2${1| ,-ns,-m,-l|}",
     "prefix": "shadow-2 { box-shadow: 0 0 8px 2px rgba( 0, 0, 0, .2 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "shadow-3": {
     "body": "shadow-3${1| ,-ns,-m,-l|}",
     "prefix": "shadow-3 { box-shadow: 2px 2px 4px 2px rgba( 0, 0, 0, .2 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "shadow-4": {
     "body": "shadow-4${1| ,-ns,-m,-l|}",
     "prefix": "shadow-4 { box-shadow: 2px 2px 8px 0 rgba( 0, 0, 0, .2 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "shadow-5": {
     "body": "shadow-5${1| ,-ns,-m,-l|}",
     "prefix": "shadow-5 { box-shadow: 4px 4px 8px 0 rgba( 0, 0, 0, .2 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "shadow-hover": {
     "body": "shadow-hover",
     "prefix": "shadow-hover { opacity: 1; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "silver": {
     "body": "silver",
     "prefix": "silver { color: #999; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "small-caps": {
     "body": "small-caps${1| ,-ns,-m,-l|}",
     "prefix": "small-caps { font-variant: small-caps; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "static": {
     "body": "static${1| ,-ns,-m,-l|}",
     "prefix": "static { position: static; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "strike": {
     "body": "strike${1| ,-ns,-m,-l|}",
     "prefix": "strike { text-decoration: line-through; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "stripe-dark": {
     "body": "stripe-dark",
     "prefix": "stripe-dark { background-color: rgba( 0, 0, 0, .1 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "stripe-light": {
     "body": "stripe-light",
     "prefix": "stripe-light { background-color: rgba( 255, 255, 255, .1 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "striped--light-gray": {
     "body": "striped--light-gray",
     "prefix": "striped--light-gray { background-color: #eee; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "striped--light-silver": {
     "body": "striped--light-silver",
     "prefix": "striped--light-silver { background-color: #aaa; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "striped--moon-gray": {
     "body": "striped--moon-gray",
     "prefix": "striped--moon-gray { background-color: #ccc; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "striped--near-white": {
     "body": "striped--near-white",
     "prefix": "striped--near-white { background-color: #f4f4f4; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "system-sans-serif": {
     "body": "system-sans-serif",
     "prefix": "system-sans-serif { font-family: sans-serif; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "system-serif": {
     "body": "system-serif",
     "prefix": "system-serif { font-family: serif; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "tc": {
     "body": "tc${1| ,-ns,-m,-l|}",
     "prefix": "tc { text-align: center; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "times": {
     "body": "times",
     "prefix": "times { font-family: times, serif; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "tj": {
     "body": "tj${1| ,-ns,-m,-l|}",
     "prefix": "tj { text-align: justify; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "tl": {
     "body": "tl${1| ,-ns,-m,-l|}",
     "prefix": "tl { text-align: left; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "top--1": {
     "body": "top--1${1| ,-ns,-m,-l|}",
     "prefix": "top--1 { top: -1rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "top--2": {
     "body": "top--2${1| ,-ns,-m,-l|}",
     "prefix": "top--2 { top: -2rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "top-0": {
     "body": "top-0${1| ,-ns,-m,-l|}",
     "prefix": "top-0 { top: 0; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "top-1": {
     "body": "top-1${1| ,-ns,-m,-l|}",
     "prefix": "top-1 { top: 1rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "top-2": {
     "body": "top-2${1| ,-ns,-m,-l|}",
     "prefix": "top-2 { top: 2rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "tr": {
     "body": "tr${1| ,-ns,-m,-l|}",
     "prefix": "tr { text-align: right; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "tracked": {
     "body": "tracked${1| ,-ns,-m,-l|}",
     "prefix": "tracked { letter-spacing: .1em; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "tracked-mega": {
     "body": "tracked-mega${1| ,-ns,-m,-l|}",
     "prefix": "tracked-mega { letter-spacing: .25em; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "tracked-tight": {
     "body": "tracked-tight${1| ,-ns,-m,-l|}",
     "prefix": "tracked-tight { letter-spacing: -.05em; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "truncate": {
     "body": "truncate${1| ,-ns,-m,-l|}",
     "prefix":
       "truncate { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "ttc": {
     "body": "ttc${1| ,-ns,-m,-l|}",
     "prefix": "ttc { text-transform: capitalize; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "ttl": {
     "body": "ttl${1| ,-ns,-m,-l|}",
     "prefix": "ttl { text-transform: lowercase; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "ttn": {
     "body": "ttn${1| ,-ns,-m,-l|}",
     "prefix": "ttn { text-transform: none; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "ttu": {
     "body": "ttu${1| ,-ns,-m,-l|}",
     "prefix": "ttu { text-transform: uppercase; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "underline": {
     "body": "underline${1| ,-ns,-m,-l|}",
     "prefix": "underline { text-decoration: underline; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "underline-hover": {
     "body": "underline-hover",
     "prefix": "underline-hover { text-decoration: underline; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "v-base": {
     "body": "v-base${1| ,-ns,-m,-l|}",
     "prefix": "v-base { vertical-align: baseline; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "v-btm": {
     "body": "v-btm${1| ,-ns,-m,-l|}",
     "prefix": "v-btm { vertical-align: bottom; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "v-mid": {
     "body": "v-mid${1| ,-ns,-m,-l|}",
     "prefix": "v-mid { vertical-align: middle; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "v-top": {
     "body": "v-top${1| ,-ns,-m,-l|}",
     "prefix": "v-top { vertical-align: top; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "vh-100": {
     "body": "vh-100${1| ,-ns,-m,-l|}",
     "prefix": "vh-100 { height: 100vh; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "vh-25": {
     "body": "vh-25${1| ,-ns,-m,-l|}",
     "prefix": "vh-25 { height: 25vh; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "vh-50": {
     "body": "vh-50${1| ,-ns,-m,-l|}",
     "prefix": "vh-50 { height: 50vh; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "vh-75": {
     "body": "vh-75${1| ,-ns,-m,-l|}",
     "prefix": "vh-75 { height: 75vh; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "w-10": {
     "body": "w-10${1| ,-ns,-m,-l|}",
     "prefix": "w-10 { width: 10%; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "w-100": {
     "body": "w-100${1| ,-ns,-m,-l|}",
     "prefix": "w-100 { width: 100%; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "w-20": {
     "body": "w-20${1| ,-ns,-m,-l|}",
     "prefix": "w-20 { width: 20%; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "w-25": {
     "body": "w-25${1| ,-ns,-m,-l|}",
     "prefix": "w-25 { width: 25%; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "w-30": {
     "body": "w-30${1| ,-ns,-m,-l|}",
     "prefix": "w-30 { width: 30%; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "w-33": {
     "body": "w-33${1| ,-ns,-m,-l|}",
     "prefix": "w-33 { width: 33%; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "w-34": {
     "body": "w-34${1| ,-ns,-m,-l|}",
     "prefix": "w-34 { width: 34%; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "w-40": {
     "body": "w-40${1| ,-ns,-m,-l|}",
     "prefix": "w-40 { width: 40%; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "w-50": {
     "body": "w-50${1| ,-ns,-m,-l|}",
     "prefix": "w-50 { width: 50%; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "w-60": {
     "body": "w-60${1| ,-ns,-m,-l|}",
     "prefix": "w-60 { width: 60%; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "w-70": {
     "body": "w-70${1| ,-ns,-m,-l|}",
     "prefix": "w-70 { width: 70%; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "w-75": {
     "body": "w-75${1| ,-ns,-m,-l|}",
     "prefix": "w-75 { width: 75%; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "w-80": {
     "body": "w-80${1| ,-ns,-m,-l|}",
     "prefix": "w-80 { width: 80%; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "w-90": {
     "body": "w-90${1| ,-ns,-m,-l|}",
     "prefix": "w-90 { width: 90%; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "w-auto": {
     "body": "w-auto${1| ,-ns,-m,-l|}",
     "prefix": "w-auto { width: auto; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "w-third": {
     "body": "w-third${1| ,-ns,-m,-l|}",
     "prefix": "w-third { width: calc( 100% / 3 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "w-two-thirds": {
     "body": "w-two-thirds${1| ,-ns,-m,-l|}",
     "prefix": "w-two-thirds { width: calc( 100% / 1.5 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "w1": {
     "body": "w1${1| ,-ns,-m,-l|}",
     "prefix": "w1 { width: 1rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "w2": {
     "body": "w2${1| ,-ns,-m,-l|}",
     "prefix": "w2 { width: 2rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "w3": {
     "body": "w3${1| ,-ns,-m,-l|}",
     "prefix": "w3 { width: 4rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "w4": {
     "body": "w4${1| ,-ns,-m,-l|}",
     "prefix": "w4 { width: 8rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "w5": {
     "body": "w5${1| ,-ns,-m,-l|}",
     "prefix": "w5 { width: 16rem; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "washed-blue": {
     "body": "washed-blue",
     "prefix": "washed-blue { color: #f6fffe; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "washed-green": {
     "body": "washed-green",
     "prefix": "washed-green { color: #e8fdf5; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "washed-red": {
     "body": "washed-red",
     "prefix": "washed-red { color: #ffdfdf; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "washed-yellow": {
     "body": "washed-yellow",
     "prefix": "washed-yellow { color: #fffceb; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "white": {
     "body": "white",
     "prefix": "white { color: #fff; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "white-10": {
     "body": "white-10",
     "prefix": "white-10 { color: rgba( 255, 255, 255, .1 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "white-20": {
     "body": "white-20",
     "prefix": "white-20 { color: rgba( 255, 255, 255, .2 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "white-30": {
     "body": "white-30",
     "prefix": "white-30 { color: rgba( 255, 255, 255, .3 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "white-40": {
     "body": "white-40",
     "prefix": "white-40 { color: rgba( 255, 255, 255, .4 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "white-50": {
     "body": "white-50",
     "prefix": "white-50 { color: rgba( 255, 255, 255, .5 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "white-60": {
     "body": "white-60",
     "prefix": "white-60 { color: rgba( 255, 255, 255, .6 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "white-70": {
     "body": "white-70",
     "prefix": "white-70 { color: rgba( 255, 255, 255, .7 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "white-80": {
     "body": "white-80",
     "prefix": "white-80 { color: rgba( 255, 255, 255, .8 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "white-90": {
     "body": "white-90",
     "prefix": "white-90 { color: rgba( 255, 255, 255, .9 ); }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "ws-normal": {
     "body": "ws-normal${1| ,-ns,-m,-l|}",
     "prefix": "ws-normal { white-space: normal; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "yellow": {
     "body": "yellow",
     "prefix": "yellow { color: #ffd700; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "z-0": {
     "body": "z-0",
     "prefix": "z-0 { z-index: 0; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "z-1": {
     "body": "z-1",
     "prefix": "z-1 { z-index: 1; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "z-2": {
     "body": "z-2",
     "prefix": "z-2 { z-index: 2; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "z-3": {
     "body": "z-3",
     "prefix": "z-3 { z-index: 3; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "z-4": {
     "body": "z-4",
     "prefix": "z-4 { z-index: 4; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "z-5": {
     "body": "z-5",
     "prefix": "z-5 { z-index: 5; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "z-999": {
     "body": "z-999",
     "prefix": "z-999 { z-index: 999; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "z-9999": {
     "body": "z-9999",
     "prefix": "z-9999 { z-index: 9999; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "z-inherit": {
     "body": "z-inherit",
     "prefix": "z-inherit { z-index: inherit; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "z-initial": {
     "body": "z-initial",
     "prefix": "z-initial { z-index: initial; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "z-max": {
     "body": "z-max",
     "prefix": "z-max { z-index: 2147483647; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   },
   "z-unset": {
     "body": "z-unset",
     "prefix": "z-unset { z-index: unset; }",
-    "scope": "javascript,javascriptreact,html"
+    "scope": "javascript,javascriptreact,html,vue"
   }
 }
