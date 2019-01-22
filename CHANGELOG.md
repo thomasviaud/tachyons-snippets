@@ -7,3 +7,9 @@ All notable changes to the "tachyons-snippets" extension will be documented in t
 ### Added
 
 * Initial release
+
+## [0.0.2] - 2019-01-22
+
+### Added
+
+* Add ReasonML support
