@@ -2,7 +2,7 @@
   "name": "tachyons-snippets",
   "displayName": "Tachyons CSS Snippets",
   "description": "All tachyons css classes as snippets",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "thomasviaud",
   "icon": "images/tachyons-snippets.png",
   "license": "MIT",
