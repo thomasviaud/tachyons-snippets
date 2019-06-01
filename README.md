@@ -6,7 +6,7 @@ This extension provides snippets for all tachyons css classes.
 
 Stop losing time `Ctrl+F` tachyons css to find your needs. This extensions allows you to find tachyons classes either by typing the name or css contained in the class directly in your code.
 
-**Supported languages :** `html`, `javascript`, `jsx`, `reason`.
+**Supported languages :** `html`, `javascript`, `jsx`, `reason`, `typescriptreact`.
 
 ![Usage](images/usage.gif)
 
