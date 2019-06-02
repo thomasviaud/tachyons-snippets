@@ -6,7 +6,7 @@ This extension provides snippets for all tachyons css classes.
 
 Stop losing time `Ctrl+F` tachyons css to find your needs. This extensions allows you to find tachyons classes either by typing the name or css contained in the class directly in your code.
 
-**Supported languages :** `html`, `javascript`, `jsx`, `reason`, `typescriptreact`.
+**Supported languages :** `javascript`, `javascriptreact`, `html`, `vue`, `reason`, `typescriptreact`.
 
 ![Usage](images/usage.gif)
 
@@ -30,3 +30,7 @@ in your editor config. For non html files, we need to enable autosuggestions in 
 ### 0.0.1
 
 Initial release of tachyons-snippets
+
+### 0.0.3
+
+Supporting new languages (Vue, Reason, Typescript React)
